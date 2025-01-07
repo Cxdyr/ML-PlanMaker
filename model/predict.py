@@ -13,7 +13,7 @@ with open('../saved_models/label_encoder.pkl', 'rb') as file:
 
 # Example: Predicting with new data
 new_data = pd.DataFrame({
-    'Goal': [0],
+    'Goal': [1],
     'Legs': [1],
     'Chest': [0],
     'Arms': [1],
