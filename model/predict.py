@@ -26,6 +26,7 @@ print(new_data)
 
 # Make predictions
 predictions = dt_model.predict(new_data)
+print(predictions)
 predicted_lifts_encoded = predictions[:, 0].astype(int)
 predicted_reps = predictions[:, 1]
 
