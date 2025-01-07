@@ -1,0 +1,1001 @@
+Goal,Legs,Chest,Arms,Back,Full Body,Lifts,Reps
+1,1,0,1,0,0,Leg Press;Bicep Curl;Running;Pull-Ups;Chest Press,5
+0,1,1,1,1,0,Lunges;Pec Deck;Hammer Curl;Lat Pulldown;Running,10
+1,1,0,1,0,1,Leg Curls;Bicep Curl;Burpees;Row;Bench Press,5
+1,0,0,1,1,1,Bicep Curl;Lat Pulldown;Deadlift;Leg Press;Push-Ups,5
+1,0,0,1,0,1,Dumbbell Curl;Running;Pec Deck;Row;Leg Curls,6
+1,1,1,1,0,1,Leg Press;Push-Ups;Bicep Curl;Clean and Press;Row,6
+1,1,0,1,0,0,Squat;Bicep Curl;Pull-Ups;Push-Ups;Burpees,5
+0,0,0,0,1,1,Cable Row;Deadlift;Leg Curls;Tricep Extension;Bench Press,10
+0,0,0,1,0,1,Tricep Extension;Deadlift;Chest Press;Cable Row;Leg Curls,13
+0,1,1,0,0,1,Calf Raise;Pec Deck;Clean and Press;Dumbbell Curl;Lat Pulldown,10
+1,0,1,1,0,0,Incline Press;Bicep Curl;Pull-Ups;Leg Curls;Running,6
+1,0,0,0,1,0,Cable Row;Squat;Push-Ups;Dumbbell Curl;Deadlift,6
+1,0,1,1,1,0,Chest Press;Tricep Extension;Cable Row;Deadlift;Leg Press,5
+0,0,1,1,1,1,Incline Press;Dumbbell Curl;Lat Pulldown;Running;Squat,9
+1,0,1,0,1,1,Incline Press;Cable Row;Running;Squat;Dumbbell Curl,4
+0,1,0,0,1,1,Lunges;Lat Pulldown;Clean and Press;Hammer Curl;Chest Press,9
+0,0,0,1,1,0,Tricep Extension;Pull-Ups;Burpees;Calf Raise;Pec Deck,9
+1,1,1,0,1,0,Lunges;Pec Deck;Row;Bicep Curl;Burpees,6
+1,0,1,0,0,1,Incline Press;Burpees;Hammer Curl;Row;Leg Curls,4
+0,1,0,1,0,1,Calf Raise;Tricep Extension;Deadlift;Chest Press;Lat Pulldown,9
+1,0,0,0,0,1,Burpees;Row;Hammer Curl;Chest Press;Leg Press,6
+0,1,1,0,1,0,Squat;Push-Ups;Pull-Ups;Burpees;Hammer Curl,8
+0,1,1,0,1,0,Squat;Incline Press;Cable Row;Dumbbell Curl;Burpees,10
+1,1,1,1,1,1,Squat;Chest Press;Hammer Curl;Cable Row;Deadlift,4
+0,1,0,1,0,0,Squat;Hammer Curl;Chest Press;Pull-Ups;Burpees,9
+1,1,0,1,0,0,Squat;Bicep Curl;Chest Press;Deadlift;Row,5
+0,0,0,1,1,0,Bicep Curl;Cable Row;Clean and Press;Lunges;Chest Press,9
+0,1,1,1,1,0,Lunges;Bench Press;Tricep Extension;Pull-Ups;Running,9
+0,1,1,1,0,0,Lunges;Pec Deck;Tricep Extension;Cable Row;Running,10
+0,0,1,0,0,0,Incline Press;Dumbbell Curl;Row;Clean and Press;Calf Raise,14
+1,1,0,0,1,0,Leg Curls;Pull-Ups;Running;Hammer Curl;Chest Press,5
+0,1,0,1,1,0,Squat;Hammer Curl;Row;Push-Ups;Clean and Press,10
+1,1,1,1,1,1,Squat;Push-Ups;Bicep Curl;Pull-Ups;Deadlift,4
+0,0,1,1,0,0,Incline Press;Tricep Extension;Burpees;Calf Raise;Lat Pulldown,9
+0,0,1,0,0,1,Chest Press;Burpees;Leg Press;Tricep Extension;Lat Pulldown,14
+1,1,0,1,0,0,Calf Raise;Bicep Curl;Chest Press;Cable Row;Clean and Press,4
+1,0,0,1,0,0,Dumbbell Curl;Leg Curls;Deadlift;Row;Pec Deck,6
+1,0,0,0,0,1,Clean and Press;Pec Deck;Calf Raise;Hammer Curl;Pull-Ups,6
+0,1,0,1,0,1,Leg Press;Bicep Curl;Deadlift;Pull-Ups;Push-Ups,11
+1,0,1,0,1,1,Pec Deck;Lat Pulldown;Clean and Press;Hammer Curl;Squat,4
+0,0,0,1,0,0,Dumbbell Curl;Clean and Press;Lat Pulldown;Incline Press;Lunges,11
+1,0,0,0,0,1,Clean and Press;Row;Chest Press;Lunges;Hammer Curl,4
+1,1,1,1,0,1,Leg Curls;Incline Press;Hammer Curl;Burpees;Pull-Ups,6
+0,1,1,0,1,1,Leg Press;Chest Press;Cable Row;Deadlift;Hammer Curl,12
+0,1,0,0,0,1,Lunges;Clean and Press;Row;Push-Ups;Tricep Extension,13
+1,1,1,0,0,1,Leg Curls;Incline Press;Burpees;Bicep Curl;Pull-Ups,5
+0,1,0,0,0,1,Leg Press;Burpees;Incline Press;Pull-Ups;Tricep Extension,14
+0,1,0,0,0,0,Lunges;Incline Press;Tricep Extension;Burpees;Row,14
+0,0,1,0,1,1,Chest Press;Cable Row;Deadlift;Calf Raise;Dumbbell Curl,14
+1,1,1,0,1,1,Squat;Pec Deck;Row;Clean and Press;Bicep Curl,6
+1,1,1,0,0,1,Squat;Incline Press;Running;Hammer Curl;Cable Row,4
+0,1,1,0,0,0,Squat;Push-Ups;Hammer Curl;Burpees;Cable Row,10
+1,0,0,1,0,1,Tricep Extension;Burpees;Leg Press;Pull-Ups;Chest Press,5
+0,0,1,1,1,1,Push-Ups;Dumbbell Curl;Cable Row;Burpees;Leg Curls,13
+1,1,0,1,0,1,Calf Raise;Hammer Curl;Deadlift;Pec Deck;Lat Pulldown,4
+0,1,1,1,1,0,Leg Curls;Chest Press;Bicep Curl;Pull-Ups;Deadlift,14
+1,1,1,1,0,0,Leg Curls;Bench Press;Dumbbell Curl;Clean and Press;Cable Row,5
+1,0,1,1,1,1,Incline Press;Tricep Extension;Cable Row;Running;Leg Curls,4
+0,0,1,1,0,0,Incline Press;Tricep Extension;Calf Raise;Cable Row;Burpees,8
+0,0,0,0,1,0,Row;Incline Press;Hammer Curl;Running;Calf Raise,14
+1,0,0,0,1,0,Row;Hammer Curl;Clean and Press;Bench Press;Squat,5
+0,1,0,1,1,1,Leg Press;Bicep Curl;Cable Row;Clean and Press;Chest Press,11
+0,0,0,0,1,1,Lat Pulldown;Running;Chest Press;Lunges;Dumbbell Curl,14
+0,0,1,1,0,1,Pec Deck;Dumbbell Curl;Burpees;Pull-Ups;Leg Press,8
+1,1,0,1,1,1,Squat;Dumbbell Curl;Cable Row;Clean and Press;Incline Press,6
+0,0,0,0,1,1,Row;Clean and Press;Dumbbell Curl;Chest Press;Calf Raise,14
+0,0,0,0,1,0,Row;Squat;Hammer Curl;Deadlift;Push-Ups,12
+0,1,0,0,1,0,Lunges;Pull-Ups;Clean and Press;Hammer Curl;Bench Press,12
+1,0,0,1,1,0,Dumbbell Curl;Lat Pulldown;Calf Raise;Bench Press;Clean and Press,5
+0,1,1,0,0,1,Squat;Pec Deck;Running;Tricep Extension;Pull-Ups,11
+1,1,0,0,1,0,Leg Press;Pull-Ups;Tricep Extension;Bench Press;Deadlift,5
+1,0,0,1,0,1,Tricep Extension;Burpees;Lat Pulldown;Leg Press;Bench Press,6
+0,0,0,1,1,1,Bicep Curl;Row;Clean and Press;Chest Press;Squat,8
+1,0,0,0,1,0,Cable Row;Pec Deck;Leg Curls;Clean and Press;Bicep Curl,5
+0,0,1,1,0,0,Chest Press;Tricep Extension;Deadlift;Leg Curls;Lat Pulldown,10
+1,0,0,0,1,1,Row;Burpees;Tricep Extension;Squat;Push-Ups,6
+0,1,1,0,0,0,Squat;Pec Deck;Burpees;Lat Pulldown;Bicep Curl,9
+0,0,0,1,0,0,Tricep Extension;Lunges;Pull-Ups;Push-Ups;Burpees,10
+0,0,0,0,1,1,Row;Deadlift;Calf Raise;Tricep Extension;Bench Press,14
+1,0,0,1,1,0,Hammer Curl;Cable Row;Chest Press;Squat;Clean and Press,4
+0,1,0,0,0,1,Leg Curls;Running;Bench Press;Lat Pulldown;Bicep Curl,9
+1,0,1,0,0,1,Push-Ups;Running;Hammer Curl;Leg Press;Pull-Ups,6
+0,1,0,1,1,0,Calf Raise;Dumbbell Curl;Pull-Ups;Bench Press;Burpees,9
+0,1,0,0,0,0,Leg Press;Push-Ups;Bicep Curl;Cable Row;Deadlift,10
+0,0,1,1,0,1,Bench Press;Tricep Extension;Burpees;Cable Row;Lunges,9
+0,1,0,1,1,1,Squat;Hammer Curl;Lat Pulldown;Running;Push-Ups,13
+0,1,1,0,0,1,Leg Curls;Incline Press;Running;Lat Pulldown;Tricep Extension,11
+1,1,1,0,1,1,Lunges;Push-Ups;Row;Deadlift;Hammer Curl,6
+1,1,0,0,0,0,Leg Curls;Burpees;Dumbbell Curl;Cable Row;Push-Ups,6
+0,0,1,0,1,0,Bench Press;Cable Row;Clean and Press;Lunges;Dumbbell Curl,10
+0,1,0,0,1,0,Lunges;Cable Row;Incline Press;Burpees;Bicep Curl,12
+1,1,1,1,0,0,Squat;Pec Deck;Tricep Extension;Clean and Press;Cable Row,6
+1,1,1,0,1,1,Calf Raise;Bench Press;Lat Pulldown;Clean and Press;Hammer Curl,5
+0,1,0,1,0,0,Calf Raise;Hammer Curl;Row;Bench Press;Running,10
+0,0,0,1,0,1,Bicep Curl;Burpees;Incline Press;Cable Row;Leg Curls,13
+0,0,0,1,1,1,Hammer Curl;Row;Clean and Press;Push-Ups;Leg Press,14
+1,0,0,1,1,1,Dumbbell Curl;Lat Pulldown;Running;Squat;Bench Press,5
+1,0,0,1,1,0,Dumbbell Curl;Cable Row;Deadlift;Squat;Pec Deck,4
+0,1,0,0,0,1,Leg Curls;Running;Bicep Curl;Pec Deck;Pull-Ups,14
+0,1,1,0,1,0,Calf Raise;Pec Deck;Row;Clean and Press;Bicep Curl,8
+0,1,1,1,1,0,Calf Raise;Chest Press;Bicep Curl;Lat Pulldown;Deadlift,11
+0,1,0,1,1,0,Calf Raise;Tricep Extension;Row;Deadlift;Pec Deck,9
+0,1,1,1,0,0,Lunges;Incline Press;Tricep Extension;Lat Pulldown;Running,14
+0,1,0,0,1,1,Lunges;Cable Row;Deadlift;Hammer Curl;Bench Press,10
+0,1,1,1,1,0,Calf Raise;Pec Deck;Hammer Curl;Row;Clean and Press,13
+1,0,0,1,0,1,Hammer Curl;Running;Pec Deck;Pull-Ups;Leg Curls,4
+1,1,0,0,1,1,Leg Press;Row;Burpees;Dumbbell Curl;Bench Press,6
+0,1,1,0,0,1,Calf Raise;Push-Ups;Running;Cable Row;Tricep Extension,12
+1,1,0,1,0,0,Lunges;Hammer Curl;Burpees;Push-Ups;Cable Row,4
+1,1,0,1,0,1,Calf Raise;Hammer Curl;Deadlift;Lat Pulldown;Bench Press,6
+1,1,0,1,0,0,Leg Press;Tricep Extension;Pull-Ups;Pec Deck;Burpees,5
+0,1,1,1,1,1,Lunges;Incline Press;Dumbbell Curl;Cable Row;Burpees,10
+1,0,1,1,0,1,Chest Press;Dumbbell Curl;Burpees;Squat;Pull-Ups,6
+0,0,1,0,1,0,Incline Press;Lat Pulldown;Running;Lunges;Bicep Curl,9
+0,0,0,1,0,0,Hammer Curl;Clean and Press;Chest Press;Cable Row;Lunges,12
+0,1,0,0,1,0,Calf Raise;Cable Row;Chest Press;Dumbbell Curl;Burpees,12
+1,1,0,1,1,0,Calf Raise;Bicep Curl;Lat Pulldown;Pec Deck;Clean and Press,4
+1,1,0,1,1,0,Lunges;Dumbbell Curl;Lat Pulldown;Burpees;Incline Press,6
+1,0,1,1,0,0,Push-Ups;Hammer Curl;Calf Raise;Deadlift;Lat Pulldown,4
+1,0,1,1,1,0,Chest Press;Tricep Extension;Cable Row;Calf Raise;Burpees,5
+1,0,0,0,1,1,Lat Pulldown;Deadlift;Pec Deck;Calf Raise;Bicep Curl,5
+1,1,0,0,0,1,Squat;Running;Cable Row;Tricep Extension;Push-Ups,6
+1,0,0,0,0,0,Leg Press;Cable Row;Bench Press;Tricep Extension;Running,4
+0,0,1,0,0,1,Incline Press;Running;Hammer Curl;Squat;Row,9
+0,1,1,0,0,0,Leg Curls;Incline Press;Row;Burpees;Dumbbell Curl,8
+0,1,1,1,1,0,Calf Raise;Incline Press;Tricep Extension;Cable Row;Burpees,12
+0,1,1,0,0,1,Calf Raise;Push-Ups;Clean and Press;Bicep Curl;Lat Pulldown,14
+0,0,1,0,1,0,Pec Deck;Cable Row;Leg Press;Dumbbell Curl;Clean and Press,9
+1,1,1,0,0,1,Leg Press;Push-Ups;Deadlift;Dumbbell Curl;Pull-Ups,4
+0,1,1,1,1,0,Squat;Pec Deck;Tricep Extension;Cable Row;Clean and Press,9
+0,0,0,1,0,1,Tricep Extension;Running;Lunges;Pec Deck;Lat Pulldown,12
+1,0,1,0,1,1,Incline Press;Cable Row;Running;Leg Press;Tricep Extension,4
+0,1,0,1,1,0,Leg Press;Bicep Curl;Pull-Ups;Deadlift;Incline Press,11
+1,1,1,1,0,0,Leg Press;Pec Deck;Tricep Extension;Clean and Press;Row,5
+1,0,1,1,0,1,Pec Deck;Bicep Curl;Deadlift;Lat Pulldown;Calf Raise,5
+0,0,1,0,0,0,Bench Press;Running;Cable Row;Tricep Extension;Leg Press,14
+0,1,1,0,0,0,Leg Press;Push-Ups;Lat Pulldown;Deadlift;Dumbbell Curl,10
+0,0,1,0,1,1,Pec Deck;Row;Deadlift;Hammer Curl;Lunges,11
+0,0,1,1,1,0,Bench Press;Dumbbell Curl;Pull-Ups;Burpees;Leg Press,14
+1,0,1,1,1,0,Pec Deck;Dumbbell Curl;Row;Burpees;Calf Raise,5
+0,1,0,0,1,1,Calf Raise;Cable Row;Burpees;Push-Ups;Hammer Curl,10
+1,0,0,1,0,0,Dumbbell Curl;Chest Press;Squat;Burpees;Lat Pulldown,4
+1,0,0,1,0,1,Bicep Curl;Clean and Press;Chest Press;Leg Press;Row,4
+1,0,0,1,1,1,Dumbbell Curl;Pull-Ups;Deadlift;Push-Ups;Leg Curls,5
+1,1,0,0,0,1,Squat;Deadlift;Lat Pulldown;Hammer Curl;Incline Press,6
+0,1,1,0,0,0,Leg Press;Bench Press;Tricep Extension;Deadlift;Row,14
+1,0,1,0,0,0,Incline Press;Cable Row;Deadlift;Tricep Extension;Leg Press,6
+1,0,0,0,1,0,Cable Row;Dumbbell Curl;Bench Press;Calf Raise;Running,4
+1,1,0,1,0,0,Leg Curls;Bicep Curl;Push-Ups;Row;Running,4
+1,0,0,0,0,0,Pec Deck;Deadlift;Hammer Curl;Leg Curls;Row,4
+1,1,0,1,1,0,Squat;Tricep Extension;Row;Incline Press;Running,6
+0,0,0,0,1,1,Lat Pulldown;Clean and Press;Tricep Extension;Pec Deck;Calf Raise,8
+1,0,0,1,1,1,Dumbbell Curl;Row;Running;Leg Press;Incline Press,4
+0,0,0,0,1,0,Lat Pulldown;Tricep Extension;Pec Deck;Squat;Deadlift,9
+0,0,0,1,0,1,Tricep Extension;Deadlift;Lat Pulldown;Squat;Incline Press,10
+0,1,1,0,0,0,Squat;Pec Deck;Deadlift;Cable Row;Bicep Curl,12
+0,1,0,1,0,0,Leg Press;Tricep Extension;Row;Running;Bench Press,11
+0,1,0,1,1,0,Leg Curls;Bicep Curl;Pull-Ups;Deadlift;Bench Press,8
+0,0,0,0,1,0,Lat Pulldown;Leg Press;Hammer Curl;Burpees;Bench Press,12
+0,1,1,0,1,1,Calf Raise;Push-Ups;Pull-Ups;Clean and Press;Dumbbell Curl,13
+1,0,1,0,1,0,Incline Press;Pull-Ups;Calf Raise;Hammer Curl;Deadlift,5
+1,1,0,0,1,1,Calf Raise;Pull-Ups;Burpees;Pec Deck;Tricep Extension,4
+0,1,1,0,1,1,Squat;Bench Press;Pull-Ups;Clean and Press;Bicep Curl,13
+0,0,0,1,1,1,Bicep Curl;Lat Pulldown;Clean and Press;Squat;Pec Deck,14
+0,0,1,1,0,1,Chest Press;Bicep Curl;Clean and Press;Lat Pulldown;Calf Raise,8
+0,0,1,0,1,0,Bench Press;Pull-Ups;Leg Press;Bicep Curl;Clean and Press,10
+0,0,0,0,0,0,Burpees;Bench Press;Lat Pulldown;Leg Press;Tricep Extension,11
+0,1,1,0,0,0,Leg Press;Pec Deck;Cable Row;Clean and Press;Bicep Curl,13
+1,0,0,1,0,0,Tricep Extension;Chest Press;Squat;Burpees;Pull-Ups,6
+1,0,1,0,0,0,Pec Deck;Tricep Extension;Cable Row;Lunges;Running,4
+0,0,0,1,0,1,Hammer Curl;Running;Lunges;Push-Ups;Row,9
+1,0,0,0,0,0,Dumbbell Curl;Incline Press;Leg Press;Pull-Ups;Clean and Press,6
+1,1,1,1,1,0,Lunges;Pec Deck;Hammer Curl;Cable Row;Running,6
+0,1,0,1,0,0,Lunges;Tricep Extension;Burpees;Push-Ups;Lat Pulldown,11
+1,1,0,1,0,1,Leg Curls;Tricep Extension;Running;Chest Press;Cable Row,5
+0,0,1,0,1,0,Incline Press;Lat Pulldown;Clean and Press;Leg Curls;Hammer Curl,9
+1,1,0,1,0,1,Leg Curls;Bicep Curl;Clean and Press;Bench Press;Row,5
+1,0,1,0,1,1,Push-Ups;Row;Deadlift;Calf Raise;Hammer Curl,5
+0,0,1,0,1,0,Chest Press;Cable Row;Leg Curls;Hammer Curl;Clean and Press,14
+1,1,0,0,0,1,Calf Raise;Running;Cable Row;Incline Press;Bicep Curl,6
+0,0,1,0,1,1,Bench Press;Pull-Ups;Running;Lunges;Hammer Curl,8
+0,0,1,0,0,0,Chest Press;Dumbbell Curl;Lunges;Burpees;Pull-Ups,12
+0,0,0,0,1,0,Pull-Ups;Squat;Bench Press;Bicep Curl;Burpees,10
+1,0,1,1,0,0,Pec Deck;Bicep Curl;Pull-Ups;Burpees;Leg Press,6
+1,0,0,1,0,1,Bicep Curl;Running;Leg Curls;Bench Press;Pull-Ups,4
+1,1,0,0,1,0,Leg Press;Cable Row;Tricep Extension;Deadlift;Bench Press,5
+0,0,1,0,1,1,Pec Deck;Cable Row;Clean and Press;Bicep Curl;Lunges,11
+1,0,1,0,0,1,Pec Deck;Clean and Press;Hammer Curl;Lat Pulldown;Leg Press,6
+0,0,1,0,0,0,Push-Ups;Pull-Ups;Hammer Curl;Running;Squat,9
+0,1,0,1,0,1,Squat;Bicep Curl;Clean and Press;Push-Ups;Lat Pulldown,10
+1,1,0,1,0,0,Leg Press;Tricep Extension;Incline Press;Cable Row;Burpees,4
+0,1,0,0,0,1,Leg Press;Clean and Press;Lat Pulldown;Tricep Extension;Bench Press,11
+0,1,1,1,0,1,Leg Press;Bench Press;Tricep Extension;Burpees;Lat Pulldown,12
+1,1,0,0,0,0,Calf Raise;Incline Press;Cable Row;Deadlift;Bicep Curl,4
+1,1,0,1,0,0,Lunges;Hammer Curl;Cable Row;Incline Press;Clean and Press,5
+1,1,1,0,1,1,Calf Raise;Bench Press;Lat Pulldown;Clean and Press;Dumbbell Curl,6
+1,1,1,0,0,1,Leg Curls;Incline Press;Clean and Press;Tricep Extension;Lat Pulldown,4
+0,1,1,0,0,1,Lunges;Incline Press;Burpees;Cable Row;Bicep Curl,9
+1,1,0,0,0,1,Squat;Running;Incline Press;Hammer Curl;Pull-Ups,6
+0,1,1,0,1,0,Leg Press;Chest Press;Pull-Ups;Bicep Curl;Running,11
+1,0,0,1,0,0,Bicep Curl;Row;Leg Curls;Push-Ups;Running,5
+0,0,0,0,1,1,Pull-Ups;Deadlift;Chest Press;Hammer Curl;Leg Curls,11
+0,1,0,1,1,1,Calf Raise;Tricep Extension;Cable Row;Clean and Press;Bench Press,11
+1,0,1,0,0,0,Bench Press;Calf Raise;Dumbbell Curl;Running;Pull-Ups,5
+0,1,0,0,0,1,Calf Raise;Clean and Press;Hammer Curl;Incline Press;Row,8
+1,0,1,0,1,0,Bench Press;Lat Pulldown;Deadlift;Lunges;Bicep Curl,5
+1,1,1,1,1,1,Leg Curls;Chest Press;Tricep Extension;Pull-Ups;Clean and Press,5
+1,1,1,1,1,1,Calf Raise;Chest Press;Tricep Extension;Row;Running,6
+1,0,1,1,1,1,Incline Press;Dumbbell Curl;Lat Pulldown;Burpees;Lunges,6
+1,1,0,1,1,1,Leg Press;Dumbbell Curl;Pull-Ups;Running;Incline Press,4
+0,1,1,0,1,0,Lunges;Pec Deck;Lat Pulldown;Tricep Extension;Running,12
+0,0,0,1,1,0,Tricep Extension;Pull-Ups;Chest Press;Burpees;Leg Curls,14
+0,1,0,0,1,0,Squat;Lat Pulldown;Running;Tricep Extension;Incline Press,13
+1,1,1,1,1,0,Lunges;Chest Press;Tricep Extension;Row;Clean and Press,4
+1,1,1,1,1,1,Lunges;Push-Ups;Bicep Curl;Pull-Ups;Burpees,4
+1,0,0,1,0,0,Tricep Extension;Pull-Ups;Leg Curls;Chest Press;Clean and Press,4
+0,1,0,1,1,0,Squat;Hammer Curl;Pull-Ups;Burpees;Incline Press,13
+0,1,0,1,1,0,Leg Curls;Bicep Curl;Row;Burpees;Chest Press,12
+1,1,0,0,0,0,Lunges;Running;Lat Pulldown;Incline Press;Hammer Curl,5
+0,0,0,1,0,1,Bicep Curl;Deadlift;Pull-Ups;Squat;Pec Deck,13
+1,1,1,1,1,1,Squat;Pec Deck;Hammer Curl;Lat Pulldown;Clean and Press,6
+0,0,0,1,0,1,Hammer Curl;Running;Pull-Ups;Squat;Pec Deck,9
+0,1,0,0,1,0,Calf Raise;Row;Burpees;Dumbbell Curl;Push-Ups,12
+0,0,1,0,0,0,Bench Press;Hammer Curl;Running;Leg Curls;Row,12
+0,0,1,1,1,0,Pec Deck;Bicep Curl;Pull-Ups;Squat;Deadlift,13
+0,1,0,1,0,0,Leg Curls;Dumbbell Curl;Chest Press;Pull-Ups;Burpees,8
+1,0,1,1,1,0,Push-Ups;Bicep Curl;Lat Pulldown;Leg Curls;Running,6
+1,0,0,1,0,0,Dumbbell Curl;Pull-Ups;Incline Press;Burpees;Leg Press,5
+1,0,1,1,1,0,Chest Press;Tricep Extension;Pull-Ups;Leg Press;Clean and Press,5
+1,0,0,0,1,1,Cable Row;Deadlift;Push-Ups;Dumbbell Curl;Calf Raise,6
+1,1,1,0,1,1,Lunges;Chest Press;Pull-Ups;Running;Tricep Extension,6
+0,1,1,0,0,0,Leg Press;Incline Press;Dumbbell Curl;Deadlift;Cable Row,12
+1,1,0,1,0,0,Squat;Dumbbell Curl;Deadlift;Push-Ups;Pull-Ups,5
+0,1,1,1,0,1,Squat;Push-Ups;Bicep Curl;Burpees;Pull-Ups,14
+1,1,1,0,0,1,Calf Raise;Incline Press;Deadlift;Hammer Curl;Pull-Ups,5
+0,0,1,0,1,0,Push-Ups;Row;Bicep Curl;Deadlift;Leg Press,13
+1,1,1,1,0,0,Lunges;Bench Press;Bicep Curl;Cable Row;Clean and Press,6
+0,0,1,1,0,1,Incline Press;Bicep Curl;Burpees;Lunges;Lat Pulldown,10
+0,1,1,0,0,1,Leg Curls;Incline Press;Burpees;Row;Hammer Curl,12
+0,0,0,0,0,1,Clean and Press;Tricep Extension;Lunges;Bench Press;Pull-Ups,8
+0,0,1,1,0,0,Pec Deck;Hammer Curl;Running;Leg Press;Cable Row,14
+0,0,1,0,1,0,Bench Press;Cable Row;Calf Raise;Tricep Extension;Clean and Press,13
+1,0,0,1,1,1,Dumbbell Curl;Pull-Ups;Deadlift;Squat;Push-Ups,4
+0,1,0,1,1,0,Lunges;Tricep Extension;Cable Row;Chest Press;Deadlift,12
+1,0,0,1,0,0,Tricep Extension;Deadlift;Lat Pulldown;Bench Press;Calf Raise,4
+0,0,1,0,1,1,Chest Press;Row;Running;Leg Press;Bicep Curl,11
+0,1,0,1,1,1,Calf Raise;Dumbbell Curl;Pull-Ups;Deadlift;Bench Press,10
+0,0,0,0,1,0,Cable Row;Burpees;Bicep Curl;Lunges;Pec Deck,10
+1,1,0,1,0,1,Leg Curls;Tricep Extension;Clean and Press;Lat Pulldown;Push-Ups,4
+0,0,1,0,0,1,Bench Press;Deadlift;Lunges;Bicep Curl;Pull-Ups,14
+0,0,1,1,1,0,Chest Press;Hammer Curl;Cable Row;Burpees;Leg Press,10
+1,0,0,0,1,1,Pull-Ups;Clean and Press;Hammer Curl;Bench Press;Leg Curls,4
+1,0,1,0,1,1,Incline Press;Cable Row;Running;Tricep Extension;Squat,5
+0,0,1,0,0,1,Bench Press;Deadlift;Bicep Curl;Squat;Cable Row,9
+0,1,0,0,0,1,Leg Curls;Clean and Press;Push-Ups;Hammer Curl;Cable Row,8
+1,0,1,1,0,1,Bench Press;Bicep Curl;Running;Lunges;Pull-Ups,6
+0,0,0,1,0,0,Hammer Curl;Clean and Press;Calf Raise;Lat Pulldown;Bench Press,10
+1,1,1,0,1,1,Leg Press;Bench Press;Row;Burpees;Hammer Curl,6
+0,0,0,1,1,1,Dumbbell Curl;Cable Row;Deadlift;Pec Deck;Squat,14
+1,1,0,0,1,0,Leg Press;Pull-Ups;Tricep Extension;Clean and Press;Incline Press,6
+0,0,1,0,1,1,Chest Press;Cable Row;Burpees;Tricep Extension;Leg Press,14
+0,0,1,1,0,1,Incline Press;Tricep Extension;Deadlift;Squat;Row,14
+1,1,0,1,0,0,Leg Curls;Hammer Curl;Push-Ups;Cable Row;Deadlift,5
+0,1,1,1,0,0,Leg Curls;Pec Deck;Dumbbell Curl;Lat Pulldown;Deadlift,14
+1,0,1,1,1,0,Bench Press;Dumbbell Curl;Cable Row;Calf Raise;Burpees,6
+1,1,1,1,1,0,Calf Raise;Incline Press;Bicep Curl;Pull-Ups;Running,6
+1,1,0,0,1,1,Leg Curls;Row;Deadlift;Dumbbell Curl;Incline Press,6
+0,1,0,1,0,0,Lunges;Bicep Curl;Deadlift;Push-Ups;Row,12
+0,1,1,0,0,1,Leg Press;Pec Deck;Deadlift;Dumbbell Curl;Pull-Ups,8
+0,0,0,0,1,0,Lat Pulldown;Tricep Extension;Incline Press;Leg Curls;Running,9
+1,1,0,1,1,1,Leg Press;Hammer Curl;Cable Row;Deadlift;Push-Ups,6
+0,1,1,1,0,1,Lunges;Chest Press;Dumbbell Curl;Running;Cable Row,10
+0,1,0,0,1,1,Leg Curls;Lat Pulldown;Clean and Press;Incline Press;Tricep Extension,14
+1,1,1,1,0,0,Calf Raise;Chest Press;Tricep Extension;Clean and Press;Lat Pulldown,4
+1,0,1,0,1,0,Pec Deck;Row;Hammer Curl;Deadlift;Squat,5
+1,0,0,0,0,1,Deadlift;Incline Press;Leg Curls;Pull-Ups;Dumbbell Curl,6
+1,0,0,0,1,0,Lat Pulldown;Bicep Curl;Squat;Chest Press;Clean and Press,4
+1,1,1,1,1,1,Lunges;Push-Ups;Hammer Curl;Cable Row;Running,6
+1,1,0,0,1,0,Leg Curls;Lat Pulldown;Clean and Press;Dumbbell Curl;Chest Press,5
+0,1,1,0,1,0,Calf Raise;Push-Ups;Lat Pulldown;Deadlift;Tricep Extension,8
+0,1,1,0,1,1,Calf Raise;Pec Deck;Cable Row;Burpees;Hammer Curl,9
+0,1,0,0,0,1,Lunges;Running;Dumbbell Curl;Lat Pulldown;Pec Deck,9
+1,0,0,1,0,1,Dumbbell Curl;Burpees;Incline Press;Lat Pulldown;Calf Raise,6
+0,0,1,0,1,1,Chest Press;Row;Deadlift;Lunges;Tricep Extension,8
+1,1,1,1,1,0,Leg Curls;Pec Deck;Tricep Extension;Lat Pulldown;Burpees,4
+0,1,1,1,1,1,Leg Curls;Incline Press;Hammer Curl;Lat Pulldown;Running,14
+1,1,1,1,0,0,Lunges;Chest Press;Hammer Curl;Row;Running,5
+1,0,1,0,0,0,Pec Deck;Hammer Curl;Calf Raise;Burpees;Row,5
+0,1,0,1,0,1,Squat;Dumbbell Curl;Clean and Press;Lat Pulldown;Incline Press,12
+0,0,1,0,0,1,Incline Press;Burpees;Cable Row;Hammer Curl;Leg Curls,11
+1,1,1,0,1,1,Leg Curls;Push-Ups;Cable Row;Clean and Press;Bicep Curl,6
+0,0,0,0,0,1,Burpees;Bicep Curl;Cable Row;Leg Press;Push-Ups,8
+0,0,1,1,1,1,Chest Press;Hammer Curl;Row;Burpees;Leg Curls,12
+1,1,1,1,0,0,Squat;Push-Ups;Bicep Curl;Burpees;Pull-Ups,4
+1,1,1,0,0,1,Leg Press;Pec Deck;Clean and Press;Row;Bicep Curl,5
+0,0,0,0,0,1,Deadlift;Leg Press;Tricep Extension;Pec Deck;Row,9
+0,1,0,0,0,1,Leg Press;Clean and Press;Dumbbell Curl;Cable Row;Pec Deck,8
+1,0,0,1,0,1,Tricep Extension;Running;Lat Pulldown;Lunges;Push-Ups,6
+0,1,0,0,1,1,Squat;Cable Row;Clean and Press;Dumbbell Curl;Bench Press,11
+1,0,1,1,0,1,Chest Press;Dumbbell Curl;Clean and Press;Pull-Ups;Lunges,5
+1,0,1,1,0,1,Pec Deck;Hammer Curl;Burpees;Calf Raise;Row,5
+0,1,1,1,0,0,Leg Curls;Pec Deck;Hammer Curl;Lat Pulldown;Burpees,14
+1,0,1,0,1,1,Push-Ups;Pull-Ups;Clean and Press;Dumbbell Curl;Leg Curls,6
+0,0,1,0,1,0,Chest Press;Lat Pulldown;Dumbbell Curl;Deadlift;Squat,13
+0,0,1,0,0,1,Pec Deck;Burpees;Hammer Curl;Calf Raise;Lat Pulldown,10
+0,0,0,1,0,1,Bicep Curl;Running;Calf Raise;Row;Chest Press,13
+0,0,0,0,0,0,Row;Push-Ups;Clean and Press;Hammer Curl;Leg Press,14
+1,1,0,1,1,0,Calf Raise;Hammer Curl;Cable Row;Push-Ups;Clean and Press,4
+1,1,0,0,1,0,Lunges;Lat Pulldown;Pec Deck;Bicep Curl;Deadlift,4
+1,0,1,0,0,0,Pec Deck;Lat Pulldown;Burpees;Calf Raise;Tricep Extension,4
+1,1,0,1,1,1,Calf Raise;Dumbbell Curl;Cable Row;Deadlift;Push-Ups,5
+0,0,1,1,1,1,Bench Press;Bicep Curl;Lat Pulldown;Clean and Press;Squat,8
+1,0,0,0,0,1,Deadlift;Leg Curls;Pull-Ups;Pec Deck;Dumbbell Curl,4
+0,0,1,0,0,1,Chest Press;Running;Squat;Lat Pulldown;Dumbbell Curl,14
+1,0,0,0,1,0,Row;Calf Raise;Dumbbell Curl;Deadlift;Chest Press,5
+0,1,1,0,1,0,Leg Curls;Pec Deck;Row;Clean and Press;Bicep Curl,14
+1,1,0,0,1,1,Calf Raise;Pull-Ups;Burpees;Pec Deck;Dumbbell Curl,4
+0,1,1,1,1,0,Squat;Pec Deck;Tricep Extension;Lat Pulldown;Clean and Press,8
+0,0,1,1,0,1,Push-Ups;Tricep Extension;Clean and Press;Lat Pulldown;Squat,10
+0,1,0,1,0,1,Leg Curls;Bicep Curl;Running;Row;Incline Press,11
+0,1,1,1,0,1,Squat;Push-Ups;Dumbbell Curl;Burpees;Row,11
+1,1,1,0,0,0,Lunges;Pec Deck;Hammer Curl;Cable Row;Running,6
+1,1,0,1,0,0,Calf Raise;Bicep Curl;Burpees;Pull-Ups;Bench Press,5
+0,1,1,1,0,0,Squat;Incline Press;Dumbbell Curl;Pull-Ups;Running,13
+1,0,1,0,1,1,Push-Ups;Pull-Ups;Burpees;Hammer Curl;Leg Curls,4
+1,0,0,1,0,1,Dumbbell Curl;Deadlift;Leg Press;Pull-Ups;Push-Ups,6
+0,1,1,0,0,1,Lunges;Chest Press;Running;Row;Dumbbell Curl,10
+1,1,1,1,1,0,Squat;Incline Press;Tricep Extension;Cable Row;Deadlift,6
+1,1,1,0,0,0,Lunges;Pec Deck;Bicep Curl;Cable Row;Deadlift,5
+1,1,1,1,0,1,Leg Press;Incline Press;Dumbbell Curl;Deadlift;Pull-Ups,5
+1,1,1,0,1,1,Squat;Incline Press;Row;Deadlift;Tricep Extension,5
+0,1,0,1,1,1,Calf Raise;Hammer Curl;Lat Pulldown;Deadlift;Bench Press,10
+1,0,0,1,1,0,Bicep Curl;Cable Row;Lunges;Incline Press;Burpees,4
+1,0,0,1,1,0,Bicep Curl;Lat Pulldown;Squat;Clean and Press;Incline Press,6
+1,1,1,0,0,1,Leg Press;Push-Ups;Burpees;Hammer Curl;Row,6
+1,1,0,1,1,0,Leg Curls;Hammer Curl;Lat Pulldown;Burpees;Pec Deck,4
+0,0,0,1,0,1,Bicep Curl;Burpees;Leg Curls;Row;Chest Press,10
+1,0,1,1,0,1,Incline Press;Dumbbell Curl;Running;Lunges;Lat Pulldown,6
+0,0,0,0,1,0,Row;Bicep Curl;Incline Press;Deadlift;Calf Raise,10
+1,1,1,1,0,0,Calf Raise;Push-Ups;Dumbbell Curl;Clean and Press;Lat Pulldown,6
+1,1,1,1,1,0,Lunges;Bench Press;Dumbbell Curl;Lat Pulldown;Running,4
+0,1,1,0,1,0,Leg Press;Chest Press;Lat Pulldown;Hammer Curl;Deadlift,11
+1,0,0,0,1,0,Lat Pulldown;Leg Curls;Running;Pec Deck;Bicep Curl,5
+0,0,0,0,1,1,Lat Pulldown;Deadlift;Bicep Curl;Calf Raise;Push-Ups,13
+1,1,1,1,1,1,Squat;Incline Press;Tricep Extension;Cable Row;Running,5
+1,1,1,1,0,1,Lunges;Incline Press;Bicep Curl;Deadlift;Row,5
+1,1,1,1,0,0,Lunges;Pec Deck;Tricep Extension;Row;Running,4
+1,1,0,0,0,1,Leg Press;Burpees;Pec Deck;Tricep Extension;Lat Pulldown,6
+1,1,0,1,0,1,Leg Press;Hammer Curl;Burpees;Row;Chest Press,5
+0,0,0,1,1,1,Hammer Curl;Lat Pulldown;Burpees;Chest Press;Leg Curls,8
+0,0,0,0,0,0,Cable Row;Lunges;Clean and Press;Tricep Extension;Incline Press,9
+1,0,1,1,0,0,Incline Press;Tricep Extension;Burpees;Calf Raise;Lat Pulldown,5
+0,0,1,1,0,1,Incline Press;Bicep Curl;Clean and Press;Squat;Pull-Ups,10
+0,1,0,1,1,1,Lunges;Hammer Curl;Pull-Ups;Burpees;Chest Press,14
+1,1,0,1,0,0,Lunges;Tricep Extension;Row;Incline Press;Deadlift,5
+1,1,1,0,0,0,Lunges;Chest Press;Tricep Extension;Lat Pulldown;Clean and Press,6
+1,1,1,0,0,0,Calf Raise;Push-Ups;Hammer Curl;Pull-Ups;Burpees,4
+0,1,0,0,0,0,Lunges;Hammer Curl;Clean and Press;Pec Deck;Lat Pulldown,14
+1,0,0,0,0,1,Burpees;Tricep Extension;Bench Press;Cable Row;Leg Curls,6
+1,1,1,1,1,1,Lunges;Bench Press;Hammer Curl;Row;Deadlift,6
+0,0,0,0,0,1,Burpees;Row;Squat;Tricep Extension;Pec Deck,13
+0,0,0,0,0,0,Running;Cable Row;Tricep Extension;Pec Deck;Squat,12
+0,0,1,0,1,0,Chest Press;Lat Pulldown;Dumbbell Curl;Leg Press;Clean and Press,13
+0,0,0,1,0,1,Dumbbell Curl;Deadlift;Cable Row;Push-Ups;Leg Press,14
+1,1,0,0,0,1,Leg Press;Clean and Press;Cable Row;Tricep Extension;Bench Press,5
+1,1,1,1,1,0,Calf Raise;Push-Ups;Tricep Extension;Row;Running,4
+0,0,1,0,0,1,Incline Press;Burpees;Lat Pulldown;Leg Curls;Dumbbell Curl,14
+0,0,0,1,0,1,Hammer Curl;Running;Row;Squat;Bench Press,8
+1,1,0,0,1,1,Leg Press;Row;Deadlift;Bicep Curl;Chest Press,6
+1,1,0,1,1,1,Squat;Tricep Extension;Cable Row;Deadlift;Incline Press,5
+0,0,0,1,0,1,Bicep Curl;Deadlift;Row;Leg Curls;Incline Press,8
+1,0,1,0,1,1,Bench Press;Row;Clean and Press;Squat;Hammer Curl,6
+1,0,1,1,0,0,Chest Press;Tricep Extension;Deadlift;Squat;Pull-Ups,4
+1,1,0,1,0,0,Leg Curls;Hammer Curl;Deadlift;Chest Press;Cable Row,4
+0,1,0,1,0,1,Squat;Bicep Curl;Burpees;Bench Press;Row,14
+0,1,0,0,0,0,Leg Curls;Incline Press;Running;Row;Hammer Curl,10
+1,0,0,1,0,1,Tricep Extension;Burpees;Row;Chest Press;Calf Raise,6
+0,1,0,0,1,1,Leg Curls;Pull-Ups;Running;Bench Press;Dumbbell Curl,14
+0,1,0,0,1,1,Squat;Row;Clean and Press;Incline Press;Tricep Extension,13
+1,0,0,0,0,1,Deadlift;Squat;Lat Pulldown;Tricep Extension;Bench Press,5
+0,0,0,1,1,1,Dumbbell Curl;Cable Row;Burpees;Chest Press;Leg Curls,9
+0,0,0,1,1,0,Tricep Extension;Lat Pulldown;Running;Push-Ups;Lunges,8
+0,1,1,0,0,0,Leg Press;Bench Press;Cable Row;Deadlift;Hammer Curl,12
+0,0,0,1,1,0,Dumbbell Curl;Row;Clean and Press;Bench Press;Squat,8
+0,0,0,1,1,1,Hammer Curl;Row;Burpees;Chest Press;Squat,13
+0,0,0,0,0,0,Dumbbell Curl;Row;Running;Chest Press;Squat,8
+0,0,0,1,0,1,Bicep Curl;Burpees;Calf Raise;Row;Pec Deck,13
+0,1,1,1,0,0,Lunges;Chest Press;Hammer Curl;Deadlift;Pull-Ups,14
+1,1,0,1,0,1,Calf Raise;Dumbbell Curl;Deadlift;Pull-Ups;Pec Deck,5
+0,0,1,0,0,0,Incline Press;Running;Pull-Ups;Bicep Curl;Lunges,13
+0,0,0,0,0,1,Deadlift;Calf Raise;Bench Press;Pull-Ups;Tricep Extension,12
+0,0,0,0,1,1,Row;Deadlift;Bicep Curl;Squat;Incline Press,12
+0,0,0,1,1,1,Bicep Curl;Cable Row;Burpees;Leg Press;Bench Press,8
+0,1,1,1,0,0,Leg Curls;Push-Ups;Tricep Extension;Running;Row,13
+1,1,1,1,1,1,Lunges;Bench Press;Bicep Curl;Lat Pulldown;Burpees,6
+0,1,1,1,1,1,Lunges;Bench Press;Hammer Curl;Pull-Ups;Deadlift,9
+1,0,0,0,1,1,Cable Row;Burpees;Squat;Push-Ups;Bicep Curl,4
+0,0,0,1,0,1,Hammer Curl;Burpees;Bench Press;Lat Pulldown;Leg Press,13
+0,0,1,0,1,1,Push-Ups;Cable Row;Running;Hammer Curl;Leg Curls,10
+1,1,1,1,1,0,Lunges;Push-Ups;Tricep Extension;Cable Row;Running,4
+0,1,0,1,1,0,Calf Raise;Tricep Extension;Pull-Ups;Chest Press;Deadlift,9
+1,0,1,1,1,0,Pec Deck;Tricep Extension;Lat Pulldown;Squat;Burpees,4
+1,0,0,1,0,1,Bicep Curl;Deadlift;Incline Press;Lunges;Lat Pulldown,6
+1,0,0,1,1,0,Tricep Extension;Row;Squat;Deadlift;Bench Press,4
+1,1,0,1,1,0,Lunges;Dumbbell Curl;Pull-Ups;Deadlift;Pec Deck,5
+1,1,1,0,1,1,Lunges;Push-Ups;Row;Burpees;Hammer Curl,5
+0,1,0,0,1,0,Leg Curls;Pull-Ups;Pec Deck;Burpees;Hammer Curl,11
+1,0,1,1,0,0,Pec Deck;Hammer Curl;Row;Running;Leg Curls,6
+1,1,1,0,0,1,Calf Raise;Chest Press;Clean and Press;Lat Pulldown;Bicep Curl,6
+0,1,0,0,1,0,Calf Raise;Pull-Ups;Incline Press;Tricep Extension;Deadlift,12
+0,0,1,1,1,1,Push-Ups;Dumbbell Curl;Cable Row;Deadlift;Leg Curls,9
+0,1,0,0,1,0,Leg Curls;Cable Row;Deadlift;Pec Deck;Hammer Curl,14
+0,0,0,0,1,0,Pull-Ups;Deadlift;Squat;Bench Press;Tricep Extension,9
+0,1,1,0,1,0,Lunges;Bench Press;Cable Row;Burpees;Tricep Extension,13
+0,1,0,0,1,1,Leg Curls;Cable Row;Burpees;Chest Press;Hammer Curl,8
+0,0,1,0,0,0,Incline Press;Burpees;Lunges;Bicep Curl;Cable Row,8
+0,1,0,0,1,1,Lunges;Lat Pulldown;Running;Push-Ups;Bicep Curl,13
+1,1,0,1,1,0,Lunges;Dumbbell Curl;Cable Row;Bench Press;Burpees,5
+1,1,1,0,0,0,Lunges;Chest Press;Deadlift;Pull-Ups;Bicep Curl,6
+1,1,0,0,0,0,Leg Curls;Bench Press;Row;Hammer Curl;Running,6
+1,0,1,1,0,1,Pec Deck;Dumbbell Curl;Clean and Press;Leg Press;Row,4
+1,1,0,0,0,0,Lunges;Chest Press;Bicep Curl;Burpees;Cable Row,4
+0,0,0,1,0,1,Bicep Curl;Deadlift;Row;Push-Ups;Calf Raise,9
+0,1,1,1,1,1,Squat;Incline Press;Hammer Curl;Row;Running,13
+0,1,0,0,1,0,Squat;Lat Pulldown;Incline Press;Clean and Press;Dumbbell Curl,12
+0,1,0,0,1,1,Leg Curls;Cable Row;Clean and Press;Chest Press;Tricep Extension,10
+0,0,0,0,0,1,Running;Pull-Ups;Squat;Hammer Curl;Incline Press,9
+1,1,0,1,1,1,Squat;Dumbbell Curl;Lat Pulldown;Burpees;Bench Press,5
+0,1,1,1,0,1,Leg Curls;Chest Press;Bicep Curl;Deadlift;Lat Pulldown,8
+0,1,1,0,1,1,Squat;Pec Deck;Lat Pulldown;Burpees;Dumbbell Curl,9
+0,0,1,1,1,1,Chest Press;Bicep Curl;Cable Row;Deadlift;Leg Press,14
+0,1,0,1,1,0,Calf Raise;Bicep Curl;Cable Row;Running;Push-Ups,11
+0,0,1,0,0,0,Chest Press;Hammer Curl;Pull-Ups;Lunges;Burpees,8
+0,0,0,0,0,0,Pull-Ups;Leg Press;Dumbbell Curl;Clean and Press;Pec Deck,14
+0,0,0,0,1,1,Row;Deadlift;Dumbbell Curl;Pec Deck;Leg Curls,10
+0,0,0,1,1,0,Bicep Curl;Row;Running;Pec Deck;Leg Curls,13
+0,1,1,0,0,0,Lunges;Chest Press;Dumbbell Curl;Burpees;Cable Row,13
+0,0,0,0,1,0,Cable Row;Chest Press;Calf Raise;Tricep Extension;Burpees,11
+0,0,1,1,0,1,Chest Press;Dumbbell Curl;Running;Calf Raise;Row,14
+1,0,0,1,0,0,Tricep Extension;Cable Row;Leg Curls;Push-Ups;Clean and Press,6
+1,0,0,1,0,1,Dumbbell Curl;Running;Row;Calf Raise;Incline Press,6
+1,1,0,0,1,1,Leg Press;Cable Row;Burpees;Bicep Curl;Pec Deck,5
+1,0,0,0,0,0,Pull-Ups;Chest Press;Tricep Extension;Deadlift;Calf Raise,6
+1,1,1,0,0,0,Squat;Incline Press;Row;Clean and Press;Dumbbell Curl,5
+1,1,0,1,0,1,Leg Curls;Bicep Curl;Running;Pull-Ups;Bench Press,4
+1,1,0,1,1,0,Leg Press;Bicep Curl;Row;Push-Ups;Burpees,5
+0,1,1,0,1,1,Squat;Incline Press;Cable Row;Burpees;Dumbbell Curl,14
+1,1,1,0,0,0,Squat;Incline Press;Pull-Ups;Burpees;Hammer Curl,4
+1,1,0,1,1,1,Leg Press;Hammer Curl;Lat Pulldown;Burpees;Chest Press,5
+1,0,1,1,0,1,Bench Press;Bicep Curl;Deadlift;Leg Press;Pull-Ups,6
+1,0,1,1,0,1,Chest Press;Bicep Curl;Deadlift;Pull-Ups;Calf Raise,5
+0,1,0,1,0,1,Calf Raise;Bicep Curl;Running;Pec Deck;Row,10
+1,0,1,0,1,0,Chest Press;Lat Pulldown;Bicep Curl;Lunges;Running,5
+1,1,1,0,1,0,Lunges;Incline Press;Pull-Ups;Dumbbell Curl;Clean and Press,4
+0,0,0,1,0,1,Tricep Extension;Running;Leg Press;Push-Ups;Cable Row,11
+0,1,0,1,1,0,Leg Curls;Hammer Curl;Lat Pulldown;Burpees;Bench Press,11
+1,1,1,1,0,0,Lunges;Bench Press;Bicep Curl;Pull-Ups;Deadlift,5
+0,1,0,0,1,0,Calf Raise;Cable Row;Clean and Press;Hammer Curl;Push-Ups,14
+1,1,0,1,0,1,Leg Curls;Dumbbell Curl;Running;Cable Row;Pec Deck,4
+1,1,1,0,1,0,Squat;Incline Press;Cable Row;Dumbbell Curl;Burpees,4
+0,1,0,0,0,1,Leg Press;Clean and Press;Dumbbell Curl;Chest Press;Row,13
+0,0,1,0,1,1,Incline Press;Row;Burpees;Squat;Dumbbell Curl,11
+0,1,0,0,1,0,Calf Raise;Row;Incline Press;Hammer Curl;Clean and Press,14
+1,1,1,0,1,1,Lunges;Incline Press;Pull-Ups;Burpees;Tricep Extension,4
+1,1,1,0,0,0,Lunges;Incline Press;Bicep Curl;Burpees;Cable Row,6
+1,0,0,0,1,1,Cable Row;Running;Hammer Curl;Calf Raise;Incline Press,5
+0,0,0,1,0,0,Dumbbell Curl;Row;Deadlift;Leg Press;Pec Deck,12
+0,1,0,0,1,1,Leg Press;Lat Pulldown;Clean and Press;Push-Ups;Dumbbell Curl,9
+0,0,1,0,1,1,Incline Press;Row;Running;Leg Curls;Hammer Curl,12
+0,1,1,0,1,1,Leg Curls;Push-Ups;Lat Pulldown;Burpees;Tricep Extension,12
+1,0,1,0,1,0,Chest Press;Pull-Ups;Hammer Curl;Burpees;Lunges,6
+1,1,0,1,0,1,Calf Raise;Hammer Curl;Burpees;Lat Pulldown;Push-Ups,4
+1,0,0,0,1,1,Lat Pulldown;Deadlift;Hammer Curl;Push-Ups;Squat,5
+1,0,1,0,0,0,Incline Press;Hammer Curl;Leg Press;Deadlift;Pull-Ups,5
+1,1,0,0,0,1,Squat;Clean and Press;Hammer Curl;Row;Chest Press,4
+1,0,0,0,0,1,Deadlift;Lunges;Pull-Ups;Hammer Curl;Bench Press,4
+1,0,0,1,1,1,Dumbbell Curl;Pull-Ups;Running;Bench Press;Lunges,5
+1,0,0,0,1,0,Pull-Ups;Lunges;Dumbbell Curl;Running;Incline Press,6
+0,0,1,0,1,1,Incline Press;Lat Pulldown;Deadlift;Tricep Extension;Leg Press,11
+1,1,1,0,1,0,Leg Press;Push-Ups;Cable Row;Running;Bicep Curl,6
+1,1,0,0,0,0,Calf Raise;Lat Pulldown;Deadlift;Dumbbell Curl;Chest Press,5
+1,0,0,1,1,0,Hammer Curl;Lat Pulldown;Running;Calf Raise;Push-Ups,4
+1,1,1,0,1,0,Squat;Push-Ups;Lat Pulldown;Bicep Curl;Deadlift,5
+0,1,0,1,1,0,Leg Curls;Dumbbell Curl;Cable Row;Deadlift;Bench Press,11
+1,0,0,1,0,1,Dumbbell Curl;Burpees;Pull-Ups;Calf Raise;Push-Ups,5
+0,1,0,0,0,0,Leg Press;Pull-Ups;Burpees;Push-Ups;Dumbbell Curl,9
+0,0,1,1,1,1,Bench Press;Dumbbell Curl;Pull-Ups;Deadlift;Leg Curls,13
+1,1,0,1,0,1,Leg Press;Bicep Curl;Clean and Press;Pull-Ups;Push-Ups,5
+1,0,0,1,1,0,Hammer Curl;Row;Leg Curls;Bench Press;Burpees,5
+0,1,1,1,0,1,Leg Curls;Incline Press;Bicep Curl;Clean and Press;Cable Row,10
+1,1,1,1,1,1,Squat;Chest Press;Dumbbell Curl;Lat Pulldown;Burpees,5
+0,1,1,1,0,1,Squat;Pec Deck;Hammer Curl;Deadlift;Lat Pulldown,12
+0,0,1,1,0,0,Incline Press;Dumbbell Curl;Burpees;Leg Curls;Lat Pulldown,9
+1,0,1,1,1,1,Bench Press;Tricep Extension;Cable Row;Burpees;Leg Curls,4
+1,1,0,0,0,0,Leg Press;Hammer Curl;Burpees;Lat Pulldown;Push-Ups,5
+1,1,1,0,0,1,Lunges;Bench Press;Clean and Press;Lat Pulldown;Hammer Curl,5
+0,1,0,1,1,0,Lunges;Dumbbell Curl;Lat Pulldown;Chest Press;Burpees,11
+1,1,1,1,0,1,Leg Curls;Chest Press;Dumbbell Curl;Clean and Press;Pull-Ups,5
+0,1,1,1,0,1,Squat;Chest Press;Bicep Curl;Burpees;Lat Pulldown,12
+1,1,0,1,0,1,Lunges;Bicep Curl;Running;Bench Press;Cable Row,4
+0,1,0,1,0,1,Lunges;Bicep Curl;Clean and Press;Pull-Ups;Bench Press,10
+0,1,1,1,0,0,Lunges;Pec Deck;Hammer Curl;Deadlift;Cable Row,12
+0,1,0,1,1,0,Leg Press;Tricep Extension;Cable Row;Chest Press;Clean and Press,14
+0,1,1,1,0,0,Squat;Chest Press;Tricep Extension;Cable Row;Running,9
+1,1,1,0,1,0,Calf Raise;Push-Ups;Pull-Ups;Dumbbell Curl;Deadlift,5
+0,0,0,0,0,1,Running;Leg Curls;Bench Press;Hammer Curl;Lat Pulldown,14
+0,0,1,1,0,1,Incline Press;Tricep Extension;Running;Calf Raise;Row,8
+1,0,0,0,1,0,Row;Pec Deck;Hammer Curl;Clean and Press;Leg Press,4
+1,1,0,0,0,1,Leg Press;Running;Dumbbell Curl;Lat Pulldown;Pec Deck,4
+1,0,0,0,1,0,Row;Chest Press;Running;Calf Raise;Bicep Curl,4
+1,1,1,0,1,0,Leg Curls;Pec Deck;Cable Row;Bicep Curl;Running,5
+0,1,1,1,1,1,Leg Press;Bench Press;Tricep Extension;Row;Clean and Press,11
+0,0,0,0,0,1,Running;Lat Pulldown;Hammer Curl;Bench Press;Leg Curls,12
+1,1,0,1,0,0,Calf Raise;Dumbbell Curl;Burpees;Push-Ups;Row,4
+0,0,0,1,0,1,Hammer Curl;Burpees;Leg Curls;Bench Press;Lat Pulldown,11
+0,0,1,0,1,0,Bench Press;Lat Pulldown;Burpees;Leg Curls;Hammer Curl,10
+0,0,1,1,1,0,Bench Press;Hammer Curl;Lat Pulldown;Lunges;Clean and Press,12
+0,0,0,0,1,1,Row;Clean and Press;Pec Deck;Bicep Curl;Leg Press,13
+0,1,0,0,1,1,Leg Curls;Lat Pulldown;Deadlift;Bench Press;Dumbbell Curl,11
+1,0,1,1,1,0,Incline Press;Bicep Curl;Pull-Ups;Lunges;Burpees,6
+0,0,0,0,0,0,Pull-Ups;Calf Raise;Running;Chest Press;Hammer Curl,8
+0,1,1,1,0,1,Calf Raise;Incline Press;Hammer Curl;Clean and Press;Cable Row,11
+0,0,1,1,1,0,Incline Press;Tricep Extension;Lat Pulldown;Calf Raise;Clean and Press,9
+1,1,1,1,0,1,Leg Press;Bench Press;Bicep Curl;Burpees;Pull-Ups,6
+0,1,1,1,1,0,Lunges;Incline Press;Hammer Curl;Row;Running,9
+1,0,1,0,0,0,Push-Ups;Running;Row;Bicep Curl;Squat,6
+1,1,0,1,1,1,Lunges;Tricep Extension;Cable Row;Burpees;Push-Ups,5
+1,1,1,0,1,1,Squat;Incline Press;Lat Pulldown;Deadlift;Tricep Extension,5
+1,1,0,1,0,0,Squat;Hammer Curl;Burpees;Pec Deck;Pull-Ups,5
+0,0,0,0,0,1,Burpees;Lat Pulldown;Leg Curls;Chest Press;Bicep Curl,8
+1,0,1,1,0,1,Push-Ups;Bicep Curl;Deadlift;Cable Row;Squat,4
+0,1,1,1,0,1,Leg Curls;Incline Press;Hammer Curl;Running;Lat Pulldown,11
+0,1,1,1,1,0,Calf Raise;Bench Press;Tricep Extension;Cable Row;Deadlift,13
+1,0,0,0,0,0,Burpees;Dumbbell Curl;Chest Press;Pull-Ups;Leg Curls,6
+1,0,0,1,0,1,Bicep Curl;Clean and Press;Leg Press;Push-Ups;Cable Row,5
+1,0,1,0,0,0,Bench Press;Tricep Extension;Lat Pulldown;Leg Curls;Running,5
+0,0,1,1,1,0,Push-Ups;Tricep Extension;Cable Row;Leg Press;Clean and Press,14
+1,0,1,0,0,0,Chest Press;Dumbbell Curl;Running;Cable Row;Squat,4
+0,0,0,0,0,0,Clean and Press;Lat Pulldown;Dumbbell Curl;Pec Deck;Squat,9
+0,1,0,0,0,1,Leg Curls;Deadlift;Chest Press;Tricep Extension;Cable Row,12
+1,0,0,0,0,1,Clean and Press;Tricep Extension;Leg Press;Push-Ups;Cable Row,5
+0,1,0,1,1,1,Calf Raise;Bicep Curl;Row;Burpees;Chest Press,14
+1,1,1,1,1,1,Leg Curls;Bench Press;Tricep Extension;Row;Burpees,6
+1,1,0,1,0,0,Lunges;Tricep Extension;Burpees;Chest Press;Cable Row,6
+0,0,0,1,1,0,Dumbbell Curl;Cable Row;Pec Deck;Running;Leg Press,10
+0,1,0,1,0,0,Lunges;Dumbbell Curl;Incline Press;Clean and Press;Lat Pulldown,9
+1,1,1,1,1,0,Lunges;Incline Press;Dumbbell Curl;Lat Pulldown;Burpees,6
+1,0,1,1,1,1,Pec Deck;Dumbbell Curl;Pull-Ups;Deadlift;Lunges,5
+1,0,1,0,1,1,Chest Press;Cable Row;Running;Hammer Curl;Squat,6
+1,1,0,0,1,1,Squat;Cable Row;Burpees;Incline Press;Tricep Extension,4
+1,1,0,0,0,0,Squat;Bench Press;Lat Pulldown;Burpees;Dumbbell Curl,5
+1,0,1,0,1,1,Push-Ups;Row;Deadlift;Leg Press;Tricep Extension,4
+0,1,1,0,1,1,Leg Press;Incline Press;Cable Row;Burpees;Bicep Curl,11
+0,0,1,1,0,1,Pec Deck;Tricep Extension;Running;Pull-Ups;Lunges,12
+1,1,0,0,1,1,Squat;Lat Pulldown;Deadlift;Bench Press;Tricep Extension,6
+1,0,0,1,0,1,Hammer Curl;Running;Bench Press;Lunges;Cable Row,5
+0,1,1,0,1,1,Calf Raise;Bench Press;Lat Pulldown;Burpees;Tricep Extension,12
+1,0,0,1,1,1,Hammer Curl;Row;Burpees;Bench Press;Lunges,4
+0,0,1,0,0,0,Bench Press;Leg Press;Deadlift;Lat Pulldown;Bicep Curl,10
+0,1,0,0,1,1,Calf Raise;Row;Running;Bench Press;Bicep Curl,13
+0,1,0,1,0,0,Leg Press;Dumbbell Curl;Chest Press;Burpees;Pull-Ups,9
+0,0,1,1,1,1,Push-Ups;Hammer Curl;Row;Burpees;Leg Press,10
+0,1,1,0,1,1,Leg Curls;Incline Press;Pull-Ups;Running;Hammer Curl,11
+1,1,1,0,1,0,Leg Curls;Chest Press;Pull-Ups;Clean and Press;Bicep Curl,5
+1,0,0,0,1,0,Row;Bench Press;Dumbbell Curl;Deadlift;Leg Curls,6
+0,0,1,0,1,0,Pec Deck;Pull-Ups;Burpees;Hammer Curl;Lunges,9
+0,0,0,1,0,1,Hammer Curl;Burpees;Leg Curls;Lat Pulldown;Pec Deck,12
+1,0,0,1,0,1,Dumbbell Curl;Running;Lunges;Pec Deck;Row,4
+0,1,0,0,0,0,Leg Press;Tricep Extension;Running;Row;Bench Press,8
+1,1,1,0,1,1,Leg Press;Bench Press;Pull-Ups;Running;Tricep Extension,6
+0,1,0,0,0,0,Calf Raise;Dumbbell Curl;Bench Press;Deadlift;Cable Row,8
+0,1,0,0,0,0,Lunges;Pec Deck;Pull-Ups;Running;Tricep Extension,8
+0,1,0,0,0,0,Leg Press;Burpees;Hammer Curl;Chest Press;Lat Pulldown,9
+0,1,0,1,1,1,Calf Raise;Bicep Curl;Row;Burpees;Incline Press,9
+0,0,0,1,0,1,Dumbbell Curl;Burpees;Lunges;Cable Row;Pec Deck,8
+0,1,1,0,1,1,Lunges;Pec Deck;Cable Row;Running;Tricep Extension,14
+1,1,1,0,0,1,Squat;Push-Ups;Burpees;Cable Row;Tricep Extension,6
+0,1,1,0,1,1,Leg Press;Bench Press;Row;Burpees;Dumbbell Curl,11
+1,1,0,1,1,1,Leg Curls;Tricep Extension;Lat Pulldown;Running;Incline Press,6
+0,1,1,0,0,1,Lunges;Pec Deck;Burpees;Lat Pulldown;Hammer Curl,12
+1,1,1,0,0,0,Lunges;Chest Press;Dumbbell Curl;Cable Row;Running,5
+1,1,1,0,0,0,Squat;Bench Press;Dumbbell Curl;Cable Row;Running,6
+0,1,1,1,0,1,Leg Press;Push-Ups;Dumbbell Curl;Deadlift;Row,12
+1,1,0,1,0,0,Leg Curls;Bicep Curl;Pull-Ups;Bench Press;Running,5
+1,0,0,1,0,0,Dumbbell Curl;Leg Curls;Burpees;Bench Press;Cable Row,4
+0,1,1,0,0,1,Squat;Incline Press;Clean and Press;Cable Row;Dumbbell Curl,11
+0,0,0,1,0,0,Tricep Extension;Incline Press;Row;Burpees;Lunges,10
+1,0,0,1,0,0,Dumbbell Curl;Calf Raise;Chest Press;Clean and Press;Lat Pulldown,6
+1,0,0,1,1,0,Tricep Extension;Cable Row;Leg Curls;Push-Ups;Deadlift,5
+0,1,1,1,0,1,Squat;Push-Ups;Bicep Curl;Deadlift;Row,10
+0,0,0,1,0,1,Dumbbell Curl;Running;Bench Press;Cable Row;Calf Raise,12
+1,0,1,0,0,0,Bench Press;Cable Row;Leg Curls;Bicep Curl;Running,5
+0,1,0,1,0,0,Squat;Bicep Curl;Deadlift;Lat Pulldown;Incline Press,11
+1,0,1,1,1,1,Incline Press;Hammer Curl;Lat Pulldown;Burpees;Squat,6
+1,0,1,0,0,0,Incline Press;Deadlift;Squat;Cable Row;Bicep Curl,6
+1,1,1,1,0,1,Calf Raise;Pec Deck;Hammer Curl;Running;Pull-Ups,4
+0,0,1,1,1,1,Chest Press;Hammer Curl;Pull-Ups;Clean and Press;Leg Curls,13
+0,1,0,1,1,1,Squat;Bicep Curl;Lat Pulldown;Burpees;Bench Press,13
+0,1,1,1,0,0,Lunges;Chest Press;Bicep Curl;Row;Burpees,10
+0,0,1,0,1,1,Chest Press;Lat Pulldown;Burpees;Bicep Curl;Leg Press,13
+1,0,1,0,1,1,Pec Deck;Cable Row;Clean and Press;Squat;Tricep Extension,5
+0,1,0,0,0,1,Leg Curls;Running;Lat Pulldown;Dumbbell Curl;Incline Press,13
+0,1,1,1,0,0,Calf Raise;Pec Deck;Hammer Curl;Row;Clean and Press,10
+1,1,0,0,1,1,Squat;Pull-Ups;Deadlift;Incline Press;Hammer Curl,5
+1,1,1,1,0,1,Calf Raise;Bench Press;Tricep Extension;Burpees;Row,4
+0,0,0,1,1,1,Dumbbell Curl;Row;Burpees;Squat;Chest Press,10
+0,0,0,0,0,0,Lat Pulldown;Chest Press;Tricep Extension;Leg Press;Clean and Press,11
+1,0,0,1,1,0,Bicep Curl;Cable Row;Leg Curls;Chest Press;Clean and Press,5
+1,0,0,0,1,0,Pull-Ups;Dumbbell Curl;Burpees;Chest Press;Squat,4
+1,0,0,0,0,1,Running;Tricep Extension;Incline Press;Leg Curls;Cable Row,5
+0,1,0,0,0,1,Calf Raise;Clean and Press;Pull-Ups;Dumbbell Curl;Push-Ups,9
+1,1,1,0,1,1,Lunges;Incline Press;Lat Pulldown;Deadlift;Bicep Curl,5
+0,1,0,0,1,0,Lunges;Pull-Ups;Bicep Curl;Chest Press;Deadlift,10
+0,1,0,0,0,1,Leg Curls;Deadlift;Cable Row;Incline Press;Tricep Extension,13
+0,0,1,1,0,0,Pec Deck;Hammer Curl;Pull-Ups;Burpees;Squat,11
+1,1,0,1,0,0,Calf Raise;Hammer Curl;Cable Row;Pec Deck;Burpees,4
+1,1,1,1,1,1,Squat;Chest Press;Tricep Extension;Pull-Ups;Clean and Press,4
+0,1,0,0,0,0,Squat;Running;Incline Press;Row;Dumbbell Curl,11
+0,0,1,1,1,1,Incline Press;Hammer Curl;Row;Deadlift;Leg Curls,8
+1,0,1,1,1,1,Incline Press;Tricep Extension;Row;Deadlift;Calf Raise,4
+0,0,0,1,1,1,Tricep Extension;Pull-Ups;Running;Calf Raise;Pec Deck,10
+1,0,0,1,1,0,Hammer Curl;Pull-Ups;Burpees;Leg Press;Push-Ups,6
+0,1,1,0,0,1,Lunges;Pec Deck;Clean and Press;Bicep Curl;Row,12
+1,0,0,0,0,1,Running;Tricep Extension;Lat Pulldown;Leg Press;Incline Press,4
+1,1,0,1,1,0,Leg Curls;Bicep Curl;Row;Burpees;Pec Deck,5
+0,0,0,0,1,0,Cable Row;Bicep Curl;Push-Ups;Lunges;Clean and Press,8
+1,0,0,0,0,0,Dumbbell Curl;Squat;Running;Lat Pulldown;Chest Press,4
+1,1,1,1,1,0,Leg Curls;Chest Press;Dumbbell Curl;Pull-Ups;Clean and Press,4
+0,1,1,0,0,1,Calf Raise;Push-Ups;Running;Row;Hammer Curl,13
+0,0,1,0,1,0,Pec Deck;Lat Pulldown;Running;Hammer Curl;Leg Curls,13
+0,0,0,1,0,1,Hammer Curl;Deadlift;Pec Deck;Leg Curls;Row,8
+1,1,0,0,0,0,Squat;Bench Press;Running;Bicep Curl;Lat Pulldown,6
+0,0,1,1,1,1,Bench Press;Bicep Curl;Row;Running;Lunges,11
+0,0,1,0,0,0,Chest Press;Lat Pulldown;Deadlift;Hammer Curl;Lunges,10
+1,1,1,0,1,0,Calf Raise;Pec Deck;Lat Pulldown;Bicep Curl;Burpees,6
+1,0,1,0,0,1,Push-Ups;Clean and Press;Row;Bicep Curl;Lunges,5
+0,0,0,0,0,1,Burpees;Lat Pulldown;Dumbbell Curl;Pec Deck;Calf Raise,9
+0,0,1,0,1,1,Incline Press;Lat Pulldown;Clean and Press;Leg Curls;Hammer Curl,14
+0,1,1,0,0,1,Leg Press;Push-Ups;Running;Lat Pulldown;Dumbbell Curl,8
+1,0,1,1,1,1,Chest Press;Tricep Extension;Lat Pulldown;Burpees;Leg Curls,4
+0,1,1,1,1,1,Lunges;Chest Press;Tricep Extension;Lat Pulldown;Deadlift,14
+0,1,0,1,0,0,Leg Curls;Hammer Curl;Incline Press;Cable Row;Running,10
+0,1,0,0,0,0,Leg Curls;Bench Press;Hammer Curl;Running;Pull-Ups,8
+0,1,1,1,1,0,Leg Curls;Chest Press;Bicep Curl;Lat Pulldown;Running,10
+1,1,1,1,0,1,Squat;Chest Press;Bicep Curl;Deadlift;Lat Pulldown,5
+0,0,1,0,0,1,Chest Press;Clean and Press;Leg Curls;Hammer Curl;Pull-Ups,11
+0,0,0,0,1,0,Row;Deadlift;Tricep Extension;Calf Raise;Chest Press,13
+0,1,1,0,1,0,Calf Raise;Bench Press;Row;Running;Hammer Curl,12
+1,1,1,0,0,1,Calf Raise;Pec Deck;Running;Dumbbell Curl;Row,6
+1,1,0,1,1,0,Lunges;Bicep Curl;Cable Row;Running;Chest Press,4
+1,1,0,1,1,0,Squat;Hammer Curl;Lat Pulldown;Running;Push-Ups,4
+1,1,0,0,0,1,Leg Curls;Burpees;Dumbbell Curl;Pull-Ups;Incline Press,5
+1,1,1,1,0,0,Leg Curls;Chest Press;Bicep Curl;Cable Row;Clean and Press,4
+1,1,0,0,1,1,Leg Curls;Row;Burpees;Tricep Extension;Incline Press,4
+0,1,1,0,0,0,Leg Press;Chest Press;Clean and Press;Pull-Ups;Dumbbell Curl,9
+1,1,0,1,1,1,Leg Press;Hammer Curl;Row;Deadlift;Chest Press,5
+0,1,0,0,0,0,Squat;Row;Burpees;Hammer Curl;Bench Press,11
+1,0,1,1,1,0,Incline Press;Tricep Extension;Lat Pulldown;Deadlift;Squat,4
+0,1,1,1,1,0,Calf Raise;Chest Press;Tricep Extension;Pull-Ups;Clean and Press,13
+1,0,1,1,1,0,Bench Press;Tricep Extension;Pull-Ups;Lunges;Deadlift,4
+0,1,1,1,1,1,Squat;Chest Press;Hammer Curl;Pull-Ups;Deadlift,10
+0,1,1,1,0,0,Leg Press;Incline Press;Dumbbell Curl;Burpees;Pull-Ups,11
+1,0,0,1,1,0,Hammer Curl;Pull-Ups;Leg Curls;Chest Press;Running,6
+0,0,1,0,0,1,Pec Deck;Deadlift;Lat Pulldown;Tricep Extension;Leg Press,8
+1,0,1,0,1,0,Bench Press;Lat Pulldown;Dumbbell Curl;Lunges;Deadlift,6
+1,1,1,1,0,1,Squat;Incline Press;Hammer Curl;Clean and Press;Pull-Ups,5
+1,0,0,0,0,1,Clean and Press;Bicep Curl;Squat;Pull-Ups;Chest Press,5
+1,0,1,1,0,0,Bench Press;Hammer Curl;Lat Pulldown;Deadlift;Lunges,4
+0,1,0,0,0,1,Leg Press;Running;Chest Press;Row;Tricep Extension,12
+0,0,0,1,0,1,Dumbbell Curl;Running;Row;Pec Deck;Squat,11
+1,0,0,1,0,1,Tricep Extension;Clean and Press;Row;Squat;Pec Deck,6
+1,1,0,1,0,0,Leg Curls;Hammer Curl;Pec Deck;Deadlift;Cable Row,6
+1,0,1,1,1,1,Bench Press;Tricep Extension;Row;Clean and Press;Squat,5
+0,0,1,0,0,1,Push-Ups;Burpees;Leg Curls;Bicep Curl;Row,12
+0,0,0,0,1,0,Lat Pulldown;Bench Press;Tricep Extension;Squat;Deadlift,14
+0,1,0,1,1,1,Leg Curls;Dumbbell Curl;Pull-Ups;Running;Chest Press,12
+0,1,1,0,0,1,Leg Curls;Push-Ups;Burpees;Dumbbell Curl;Pull-Ups,12
+0,0,1,0,1,0,Push-Ups;Row;Tricep Extension;Squat;Running,11
+1,1,0,0,1,0,Leg Curls;Lat Pulldown;Incline Press;Deadlift;Hammer Curl,4
+0,0,1,1,0,1,Pec Deck;Tricep Extension;Clean and Press;Lat Pulldown;Calf Raise,14
+1,1,0,1,1,1,Leg Press;Bicep Curl;Row;Deadlift;Pec Deck,4
+0,1,1,0,1,1,Leg Press;Pec Deck;Cable Row;Burpees;Dumbbell Curl,10
+0,0,1,1,1,1,Chest Press;Bicep Curl;Pull-Ups;Deadlift;Squat,10
+0,0,1,0,0,1,Pec Deck;Deadlift;Cable Row;Leg Curls;Bicep Curl,13
+1,1,1,1,1,0,Leg Press;Push-Ups;Tricep Extension;Lat Pulldown;Deadlift,4
+1,0,0,0,0,1,Burpees;Cable Row;Tricep Extension;Leg Curls;Pec Deck,6
+1,1,0,0,0,0,Squat;Lat Pulldown;Incline Press;Bicep Curl;Burpees,5
+0,0,1,1,0,1,Chest Press;Bicep Curl;Burpees;Lat Pulldown;Leg Curls,10
+0,1,1,0,1,1,Squat;Incline Press;Lat Pulldown;Deadlift;Dumbbell Curl,11
+1,0,1,1,0,0,Bench Press;Tricep Extension;Deadlift;Squat;Cable Row,5
+1,0,1,0,0,1,Bench Press;Clean and Press;Cable Row;Squat;Hammer Curl,5
+0,1,0,0,0,0,Squat;Clean and Press;Chest Press;Pull-Ups;Bicep Curl,8
+0,0,1,0,1,0,Incline Press;Lat Pulldown;Clean and Press;Leg Press;Hammer Curl,11
+1,0,0,0,1,0,Pull-Ups;Running;Squat;Bicep Curl;Bench Press,5
+1,0,0,1,1,0,Bicep Curl;Pull-Ups;Calf Raise;Chest Press;Burpees,6
+0,0,0,1,0,1,Hammer Curl;Running;Leg Press;Lat Pulldown;Bench Press,9
+0,0,0,0,0,1,Running;Incline Press;Lat Pulldown;Leg Press;Bicep Curl,11
+0,0,0,0,1,0,Row;Burpees;Incline Press;Leg Curls;Tricep Extension,12
+0,1,1,0,0,0,Calf Raise;Bench Press;Hammer Curl;Row;Burpees,14
+0,0,1,0,0,0,Push-Ups;Squat;Running;Hammer Curl;Row,10
+0,1,0,0,0,1,Calf Raise;Deadlift;Lat Pulldown;Hammer Curl;Chest Press,12
+1,1,1,0,1,0,Calf Raise;Push-Ups;Pull-Ups;Clean and Press;Tricep Extension,4
+0,0,1,0,1,0,Incline Press;Lat Pulldown;Deadlift;Dumbbell Curl;Calf Raise,8
+1,0,1,1,1,1,Push-Ups;Tricep Extension;Pull-Ups;Clean and Press;Lunges,6
+1,1,1,1,1,1,Squat;Incline Press;Hammer Curl;Row;Burpees,4
+0,0,1,0,1,1,Push-Ups;Lat Pulldown;Burpees;Leg Curls;Tricep Extension,11
+1,1,0,0,1,1,Squat;Row;Deadlift;Bicep Curl;Push-Ups,4
+0,1,0,0,0,0,Lunges;Push-Ups;Pull-Ups;Hammer Curl;Clean and Press,13
+0,0,1,1,0,1,Push-Ups;Hammer Curl;Burpees;Row;Leg Curls,8
+1,1,1,1,1,1,Calf Raise;Bench Press;Bicep Curl;Cable Row;Running,5
+0,1,1,0,0,0,Lunges;Incline Press;Tricep Extension;Lat Pulldown;Running,11
+0,0,1,0,1,1,Push-Ups;Row;Deadlift;Bicep Curl;Leg Press,12
+1,1,1,1,1,0,Leg Curls;Push-Ups;Hammer Curl;Pull-Ups;Clean and Press,6
+0,1,1,0,1,1,Leg Press;Bench Press;Lat Pulldown;Clean and Press;Tricep Extension,10
+1,1,0,1,1,0,Calf Raise;Bicep Curl;Lat Pulldown;Chest Press;Running,4
+1,0,1,0,1,1,Pec Deck;Lat Pulldown;Running;Tricep Extension;Lunges,6
+0,1,1,0,1,1,Leg Press;Push-Ups;Pull-Ups;Deadlift;Dumbbell Curl,8
+1,0,1,1,0,1,Incline Press;Bicep Curl;Running;Pull-Ups;Squat,5
+0,1,0,1,0,1,Lunges;Dumbbell Curl;Burpees;Cable Row;Bench Press,8
+1,1,1,0,0,1,Squat;Bench Press;Burpees;Hammer Curl;Cable Row,6
+0,0,1,1,0,1,Push-Ups;Bicep Curl;Running;Cable Row;Calf Raise,8
+0,1,0,0,0,1,Leg Press;Burpees;Push-Ups;Hammer Curl;Cable Row,14
+0,1,0,1,0,0,Leg Press;Hammer Curl;Burpees;Pec Deck;Pull-Ups,10
+1,1,0,0,0,1,Leg Press;Clean and Press;Cable Row;Push-Ups;Bicep Curl,5
+0,0,1,0,0,1,Pec Deck;Burpees;Lat Pulldown;Tricep Extension;Lunges,13
+0,0,0,1,1,0,Dumbbell Curl;Lat Pulldown;Pec Deck;Burpees;Calf Raise,10
+0,0,1,1,0,1,Chest Press;Tricep Extension;Deadlift;Lat Pulldown;Leg Press,9
+0,0,1,1,1,1,Incline Press;Bicep Curl;Pull-Ups;Clean and Press;Squat,12
+0,0,1,0,1,0,Pec Deck;Lat Pulldown;Running;Tricep Extension;Calf Raise,13
+1,1,0,1,1,0,Lunges;Dumbbell Curl;Row;Burpees;Incline Press,5
+1,0,1,1,0,0,Bench Press;Tricep Extension;Cable Row;Deadlift;Lunges,6
+1,0,0,1,0,1,Hammer Curl;Burpees;Pec Deck;Lat Pulldown;Leg Curls,6
+0,0,1,1,0,0,Bench Press;Bicep Curl;Squat;Running;Row,8
+0,1,1,0,0,1,Calf Raise;Chest Press;Clean and Press;Pull-Ups;Tricep Extension,10
+1,1,0,0,0,1,Calf Raise;Deadlift;Push-Ups;Pull-Ups;Hammer Curl,6
+1,1,1,1,0,1,Calf Raise;Incline Press;Dumbbell Curl;Running;Lat Pulldown,4
+1,0,1,0,0,1,Chest Press;Burpees;Dumbbell Curl;Leg Curls;Row,4
+0,1,0,1,0,0,Squat;Hammer Curl;Burpees;Chest Press;Cable Row,12
+1,1,0,1,1,1,Lunges;Dumbbell Curl;Row;Running;Push-Ups,6
+0,0,1,1,1,0,Push-Ups;Hammer Curl;Pull-Ups;Burpees;Leg Press,8
+1,1,0,0,1,0,Leg Press;Lat Pulldown;Incline Press;Tricep Extension;Clean and Press,5
+1,1,1,1,0,0,Leg Curls;Push-Ups;Hammer Curl;Pull-Ups;Clean and Press,5
+1,0,0,1,1,1,Tricep Extension;Row;Clean and Press;Pec Deck;Squat,4
+0,0,1,1,1,0,Pec Deck;Tricep Extension;Cable Row;Leg Press;Clean and Press,11
+1,1,0,1,0,0,Leg Curls;Hammer Curl;Push-Ups;Deadlift;Row,4
+0,0,0,1,1,1,Dumbbell Curl;Cable Row;Burpees;Push-Ups;Squat,10
+1,0,1,0,0,0,Incline Press;Bicep Curl;Running;Calf Raise;Pull-Ups,5
+1,1,1,1,0,0,Calf Raise;Pec Deck;Tricep Extension;Deadlift;Pull-Ups,6
+1,1,1,1,0,0,Lunges;Incline Press;Tricep Extension;Pull-Ups;Burpees,6
+0,0,1,0,0,1,Pec Deck;Deadlift;Cable Row;Bicep Curl;Lunges,13
+0,0,0,1,0,1,Bicep Curl;Clean and Press;Bench Press;Leg Curls;Lat Pulldown,8
+0,0,0,1,0,0,Hammer Curl;Cable Row;Clean and Press;Squat;Pec Deck,10
+1,1,1,1,0,0,Calf Raise;Push-Ups;Bicep Curl;Burpees;Pull-Ups,4
+1,1,0,0,0,1,Lunges;Deadlift;Push-Ups;Row;Hammer Curl,5
+0,0,1,1,0,0,Incline Press;Dumbbell Curl;Cable Row;Clean and Press;Squat,9
+1,0,0,0,1,1,Cable Row;Running;Calf Raise;Dumbbell Curl;Incline Press,6
+1,1,0,0,1,1,Leg Press;Row;Clean and Press;Incline Press;Dumbbell Curl,5
+1,1,0,0,1,1,Leg Curls;Cable Row;Clean and Press;Tricep Extension;Pec Deck,6
+0,0,0,1,0,0,Tricep Extension;Incline Press;Lat Pulldown;Burpees;Leg Curls,14
+1,1,0,1,1,0,Lunges;Bicep Curl;Cable Row;Running;Bench Press,4
+1,0,0,0,1,0,Row;Leg Press;Bench Press;Tricep Extension;Running,4
+0,0,0,0,0,0,Lunges;Pull-Ups;Clean and Press;Push-Ups;Dumbbell Curl,14
+0,0,0,1,1,0,Tricep Extension;Lat Pulldown;Leg Press;Clean and Press;Chest Press,8
+1,0,0,1,0,0,Tricep Extension;Deadlift;Push-Ups;Calf Raise;Cable Row,6
+1,0,1,0,0,1,Push-Ups;Burpees;Dumbbell Curl;Cable Row;Lunges,6
+1,0,0,0,0,1,Deadlift;Leg Curls;Lat Pulldown;Chest Press;Dumbbell Curl,6
+1,1,1,0,1,1,Squat;Chest Press;Pull-Ups;Running;Dumbbell Curl,4
+1,1,0,0,0,1,Leg Press;Running;Pull-Ups;Tricep Extension;Pec Deck,4
+1,0,1,0,0,0,Push-Ups;Deadlift;Leg Curls;Row;Dumbbell Curl,5
+1,0,0,0,0,1,Burpees;Bicep Curl;Calf Raise;Cable Row;Bench Press,5
+1,1,1,0,1,1,Squat;Chest Press;Cable Row;Running;Bicep Curl,5
+1,1,1,0,0,0,Leg Press;Bench Press;Dumbbell Curl;Burpees;Lat Pulldown,4
+1,1,0,1,1,0,Leg Press;Hammer Curl;Lat Pulldown;Push-Ups;Running,4
+1,0,1,1,0,0,Push-Ups;Bicep Curl;Squat;Clean and Press;Cable Row,4
+0,1,0,0,0,1,Squat;Burpees;Lat Pulldown;Hammer Curl;Push-Ups,12
+0,1,0,0,1,1,Lunges;Lat Pulldown;Running;Incline Press;Bicep Curl,11
+1,0,0,1,1,0,Tricep Extension;Cable Row;Pec Deck;Deadlift;Squat,5
+1,0,0,1,0,0,Dumbbell Curl;Bench Press;Leg Press;Lat Pulldown;Clean and Press,6
+0,0,0,0,1,1,Cable Row;Clean and Press;Squat;Pec Deck;Hammer Curl,14
+0,0,0,1,1,1,Tricep Extension;Lat Pulldown;Deadlift;Calf Raise;Push-Ups,11
+1,0,0,1,1,1,Tricep Extension;Row;Burpees;Push-Ups;Leg Press,6
+0,1,0,0,0,1,Leg Curls;Deadlift;Dumbbell Curl;Chest Press;Pull-Ups,10
+0,1,0,1,0,0,Lunges;Hammer Curl;Row;Clean and Press;Push-Ups,10
+0,1,1,0,0,0,Leg Curls;Pec Deck;Burpees;Pull-Ups;Dumbbell Curl,13
+1,0,1,1,0,0,Chest Press;Tricep Extension;Running;Squat;Row,6
+0,1,1,1,0,0,Squat;Chest Press;Bicep Curl;Row;Clean and Press,12
+1,0,1,1,0,1,Pec Deck;Hammer Curl;Clean and Press;Pull-Ups;Leg Press,6
+0,1,1,0,1,0,Leg Curls;Incline Press;Lat Pulldown;Clean and Press;Tricep Extension,8
+0,0,1,1,0,1,Pec Deck;Bicep Curl;Deadlift;Pull-Ups;Lunges,12
+1,1,1,0,0,1,Calf Raise;Pec Deck;Running;Bicep Curl;Pull-Ups,4
+1,1,1,0,1,0,Calf Raise;Bench Press;Pull-Ups;Clean and Press;Bicep Curl,6
+1,1,1,1,1,1,Calf Raise;Bench Press;Dumbbell Curl;Cable Row;Running,4
+1,0,1,0,0,0,Chest Press;Row;Leg Press;Bicep Curl;Deadlift,6
+0,0,0,0,1,0,Lat Pulldown;Squat;Bench Press;Tricep Extension;Running,10
+1,0,0,1,0,0,Tricep Extension;Lunges;Chest Press;Clean and Press;Cable Row,6
+1,1,1,1,1,1,Leg Press;Incline Press;Bicep Curl;Cable Row;Clean and Press,6
+0,1,0,0,0,0,Squat;Tricep Extension;Cable Row;Clean and Press;Bench Press,14
+1,1,0,1,1,0,Leg Press;Bicep Curl;Cable Row;Incline Press;Burpees,6
+0,1,1,1,1,1,Lunges;Bench Press;Dumbbell Curl;Pull-Ups;Clean and Press,8
+1,0,1,1,1,0,Incline Press;Tricep Extension;Row;Deadlift;Leg Curls,4
+0,1,1,1,0,1,Lunges;Chest Press;Hammer Curl;Clean and Press;Lat Pulldown,10
+1,0,0,0,0,1,Clean and Press;Leg Curls;Incline Press;Dumbbell Curl;Lat Pulldown,6
+1,1,1,1,0,0,Calf Raise;Pec Deck;Dumbbell Curl;Deadlift;Row,6
+1,1,1,1,1,1,Leg Press;Pec Deck;Dumbbell Curl;Cable Row;Burpees,5
+1,0,0,1,0,1,Dumbbell Curl;Running;Pull-Ups;Bench Press;Leg Press,6
+1,0,1,1,0,0,Push-Ups;Tricep Extension;Leg Press;Cable Row;Burpees,6
+1,1,0,0,1,1,Lunges;Cable Row;Running;Tricep Extension;Push-Ups,4
+0,1,1,1,0,1,Calf Raise;Chest Press;Bicep Curl;Burpees;Cable Row,10
+0,0,1,1,1,0,Pec Deck;Bicep Curl;Row;Calf Raise;Running,11
+1,1,1,1,0,0,Lunges;Incline Press;Dumbbell Curl;Deadlift;Pull-Ups,6
+1,0,0,0,0,0,Incline Press;Tricep Extension;Pull-Ups;Clean and Press;Leg Curls,4
+1,1,0,0,0,1,Leg Curls;Running;Lat Pulldown;Chest Press;Hammer Curl,6
+0,1,0,0,1,0,Leg Curls;Row;Clean and Press;Hammer Curl;Bench Press,12
+0,0,0,0,1,1,Cable Row;Running;Hammer Curl;Leg Curls;Incline Press,14
+0,0,1,0,1,0,Chest Press;Lat Pulldown;Leg Press;Clean and Press;Dumbbell Curl,14
+0,1,1,0,0,1,Squat;Pec Deck;Clean and Press;Cable Row;Dumbbell Curl,14
+1,1,1,1,1,1,Squat;Chest Press;Bicep Curl;Pull-Ups;Running,5
+0,0,0,1,0,0,Hammer Curl;Lunges;Chest Press;Pull-Ups;Burpees,11
+1,0,1,0,1,1,Pec Deck;Lat Pulldown;Clean and Press;Lunges;Hammer Curl,5
+1,0,1,0,1,0,Bench Press;Row;Running;Bicep Curl;Lunges,6
+0,0,1,0,1,1,Pec Deck;Cable Row;Clean and Press;Tricep Extension;Leg Press,13
+0,1,0,1,1,0,Leg Press;Bicep Curl;Cable Row;Clean and Press;Pec Deck,9
+0,0,1,1,1,0,Chest Press;Tricep Extension;Cable Row;Leg Press;Deadlift,13
+1,0,0,0,0,1,Burpees;Bicep Curl;Lat Pulldown;Leg Curls;Bench Press,5
+0,0,0,0,0,0,Lat Pulldown;Running;Bench Press;Calf Raise;Hammer Curl,14
+1,0,1,1,1,1,Push-Ups;Hammer Curl;Cable Row;Clean and Press;Squat,6
+1,1,0,1,1,1,Lunges;Bicep Curl;Row;Clean and Press;Chest Press,5
+0,0,1,0,1,0,Incline Press;Pull-Ups;Deadlift;Dumbbell Curl;Calf Raise,10
+1,1,1,1,0,0,Leg Curls;Chest Press;Hammer Curl;Cable Row;Clean and Press,5
+0,0,0,1,0,1,Dumbbell Curl;Clean and Press;Lunges;Row;Incline Press,12
+0,0,1,1,1,1,Bench Press;Hammer Curl;Cable Row;Deadlift;Leg Curls,12
+1,1,1,1,0,0,Calf Raise;Push-Ups;Tricep Extension;Clean and Press;Pull-Ups,4
+0,0,1,1,0,0,Push-Ups;Bicep Curl;Clean and Press;Pull-Ups;Leg Curls,14
+1,0,0,0,1,0,Row;Burpees;Pec Deck;Hammer Curl;Leg Press,5
+1,1,1,1,0,0,Leg Press;Chest Press;Bicep Curl;Lat Pulldown;Deadlift,4
+1,1,0,0,1,1,Squat;Lat Pulldown;Running;Hammer Curl;Pec Deck,4
+0,0,1,0,0,0,Chest Press;Running;Lat Pulldown;Squat;Tricep Extension,11
+1,0,0,1,0,0,Bicep Curl;Squat;Cable Row;Clean and Press;Chest Press,4
+1,0,0,0,1,1,Lat Pulldown;Clean and Press;Bench Press;Bicep Curl;Squat,4
+1,1,1,1,1,1,Calf Raise;Pec Deck;Bicep Curl;Lat Pulldown;Clean and Press,4
+0,1,0,0,0,1,Squat;Running;Tricep Extension;Cable Row;Pec Deck,11
+0,1,0,1,0,0,Leg Curls;Tricep Extension;Chest Press;Lat Pulldown;Deadlift,8
+0,0,0,1,1,1,Dumbbell Curl;Pull-Ups;Burpees;Leg Press;Pec Deck,13
+0,1,1,0,1,0,Lunges;Pec Deck;Cable Row;Dumbbell Curl;Running,14
+1,1,0,1,1,0,Leg Curls;Tricep Extension;Row;Clean and Press;Bench Press,4
+0,1,0,1,0,1,Lunges;Bicep Curl;Running;Chest Press;Pull-Ups,13
+0,1,1,0,0,0,Leg Curls;Push-Ups;Deadlift;Tricep Extension;Pull-Ups,8
+0,0,0,0,0,0,Bench Press;Burpees;Tricep Extension;Leg Press;Cable Row,8
+0,0,1,0,0,1,Bench Press;Clean and Press;Dumbbell Curl;Leg Curls;Cable Row,13
+1,1,1,0,1,0,Calf Raise;Chest Press;Cable Row;Tricep Extension;Burpees,6
+1,0,0,0,1,0,Pull-Ups;Dumbbell Curl;Push-Ups;Burpees;Leg Press,5
+1,0,1,0,0,0,Pec Deck;Running;Lat Pulldown;Leg Curls;Dumbbell Curl,5
+0,0,1,1,1,1,Incline Press;Dumbbell Curl;Pull-Ups;Running;Squat,13
+1,1,0,0,0,0,Lunges;Incline Press;Clean and Press;Cable Row;Bicep Curl,5
+0,1,0,0,0,0,Calf Raise;Tricep Extension;Clean and Press;Cable Row;Pec Deck,11
+0,1,1,1,1,1,Calf Raise;Chest Press;Dumbbell Curl;Pull-Ups;Running,10
+0,0,0,1,1,1,Bicep Curl;Cable Row;Burpees;Pec Deck;Leg Curls,11
+0,1,1,1,0,1,Leg Curls;Chest Press;Tricep Extension;Deadlift;Pull-Ups,10
+1,0,1,0,1,0,Pec Deck;Lat Pulldown;Deadlift;Calf Raise;Hammer Curl,4
+1,0,0,0,1,0,Pull-Ups;Push-Ups;Tricep Extension;Running;Squat,5
+0,1,0,1,1,0,Leg Curls;Bicep Curl;Lat Pulldown;Pec Deck;Burpees,11
+0,1,1,0,1,1,Calf Raise;Bench Press;Pull-Ups;Clean and Press;Tricep Extension,14
+1,0,0,0,1,0,Row;Bench Press;Calf Raise;Deadlift;Dumbbell Curl,4
+0,1,0,1,1,0,Calf Raise;Dumbbell Curl;Lat Pulldown;Deadlift;Incline Press,12
+0,1,1,0,1,1,Lunges;Push-Ups;Pull-Ups;Clean and Press;Tricep Extension,12
+1,1,1,0,1,1,Leg Press;Incline Press;Lat Pulldown;Clean and Press;Bicep Curl,6
+1,1,0,0,1,1,Leg Curls;Pull-Ups;Burpees;Dumbbell Curl;Bench Press,5
+1,1,0,0,1,1,Squat;Pull-Ups;Running;Incline Press;Tricep Extension,6
+1,1,0,0,1,0,Leg Press;Cable Row;Chest Press;Dumbbell Curl;Burpees,6
+0,0,0,0,1,0,Lat Pulldown;Leg Curls;Bench Press;Clean and Press;Bicep Curl,13
+1,0,1,0,1,0,Bench Press;Cable Row;Lunges;Bicep Curl;Deadlift,5
+1,0,1,1,0,0,Incline Press;Bicep Curl;Cable Row;Squat;Burpees,5
+1,1,0,0,1,1,Leg Curls;Pull-Ups;Deadlift;Incline Press;Bicep Curl,4
+1,1,0,1,1,1,Lunges;Tricep Extension;Pull-Ups;Clean and Press;Chest Press,4
+0,0,0,1,0,0,Tricep Extension;Leg Press;Lat Pulldown;Deadlift;Incline Press,12
+0,0,0,0,0,0,Clean and Press;Lunges;Bench Press;Tricep Extension;Row,9
+0,1,1,0,1,0,Lunges;Chest Press;Cable Row;Hammer Curl;Clean and Press,10
+0,0,1,1,0,0,Chest Press;Hammer Curl;Row;Burpees;Squat,9
+1,0,1,0,1,1,Pec Deck;Row;Clean and Press;Bicep Curl;Leg Curls,5
+1,1,0,1,1,0,Lunges;Hammer Curl;Lat Pulldown;Deadlift;Bench Press,4
+0,0,1,1,0,1,Chest Press;Hammer Curl;Running;Calf Raise;Row,13
+0,1,1,0,1,0,Calf Raise;Chest Press;Cable Row;Tricep Extension;Running,11
+0,1,0,0,1,0,Squat;Lat Pulldown;Chest Press;Bicep Curl;Deadlift,10
+0,1,1,1,0,1,Leg Curls;Push-Ups;Bicep Curl;Running;Row,9
+0,1,1,0,0,0,Calf Raise;Chest Press;Lat Pulldown;Clean and Press;Tricep Extension,14
+0,1,1,1,1,0,Lunges;Chest Press;Hammer Curl;Row;Clean and Press,14
+1,0,0,0,0,0,Leg Press;Bicep Curl;Bench Press;Row;Deadlift,6
+1,0,0,0,0,0,Leg Curls;Pull-Ups;Incline Press;Deadlift;Hammer Curl,5
+1,1,0,1,0,1,Calf Raise;Tricep Extension;Clean and Press;Lat Pulldown;Bench Press,4
+1,1,0,1,1,1,Squat;Hammer Curl;Pull-Ups;Clean and Press;Chest Press,5
+0,1,0,0,0,1,Squat;Running;Chest Press;Pull-Ups;Hammer Curl,13
+1,1,1,1,0,1,Calf Raise;Bench Press;Tricep Extension;Running;Pull-Ups,5
+1,0,0,1,0,1,Hammer Curl;Deadlift;Squat;Pec Deck;Row,5
+1,1,1,1,1,1,Calf Raise;Bench Press;Hammer Curl;Lat Pulldown;Deadlift,6
+0,1,0,1,1,1,Leg Curls;Tricep Extension;Row;Running;Incline Press,8
+0,0,0,1,1,1,Tricep Extension;Lat Pulldown;Deadlift;Calf Raise;Bench Press,8
+1,1,0,0,0,0,Leg Curls;Clean and Press;Hammer Curl;Bench Press;Row,4
+1,1,1,0,0,1,Leg Press;Bench Press;Running;Lat Pulldown;Tricep Extension,6
+1,0,0,1,1,1,Hammer Curl;Pull-Ups;Clean and Press;Leg Curls;Pec Deck,5
+1,1,0,0,0,1,Calf Raise;Clean and Press;Lat Pulldown;Bench Press;Bicep Curl,6
+0,1,1,0,0,0,Calf Raise;Bench Press;Lat Pulldown;Clean and Press;Bicep Curl,9
+0,0,1,0,1,1,Chest Press;Lat Pulldown;Clean and Press;Lunges;Dumbbell Curl,9
+0,1,0,0,0,0,Leg Press;Pec Deck;Deadlift;Pull-Ups;Bicep Curl,9
+1,1,0,1,1,1,Calf Raise;Bicep Curl;Pull-Ups;Deadlift;Push-Ups,6
+0,0,0,1,1,0,Tricep Extension;Pull-Ups;Leg Press;Bench Press;Deadlift,8
+1,0,1,1,0,0,Push-Ups;Bicep Curl;Pull-Ups;Leg Curls;Deadlift,4
+1,0,0,0,0,0,Deadlift;Incline Press;Cable Row;Leg Press;Tricep Extension,5
+1,0,1,0,0,1,Push-Ups;Running;Bicep Curl;Pull-Ups;Lunges,6
+1,1,0,1,1,1,Leg Curls;Tricep Extension;Cable Row;Clean and Press;Push-Ups,5
+0,0,1,0,1,0,Incline Press;Lat Pulldown;Leg Press;Bicep Curl;Clean and Press,10
+0,0,0,0,1,0,Cable Row;Bench Press;Calf Raise;Hammer Curl;Deadlift,13
+1,0,1,1,1,1,Bench Press;Dumbbell Curl;Cable Row;Burpees;Leg Curls,4
+0,0,1,0,1,1,Pec Deck;Row;Burpees;Bicep Curl;Lunges,9
+1,0,0,1,1,1,Hammer Curl;Row;Running;Leg Curls;Pec Deck,5
+0,1,0,1,1,1,Calf Raise;Dumbbell Curl;Pull-Ups;Burpees;Push-Ups,8
+0,0,0,0,0,1,Burpees;Pull-Ups;Calf Raise;Incline Press;Dumbbell Curl,10
+1,1,0,0,0,1,Leg Press;Running;Pull-Ups;Tricep Extension;Push-Ups,4
+0,1,0,0,1,1,Leg Press;Lat Pulldown;Clean and Press;Incline Press;Dumbbell Curl,14
+1,1,0,1,0,1,Leg Press;Tricep Extension;Running;Incline Press;Row,5
+1,1,1,1,1,1,Leg Press;Pec Deck;Bicep Curl;Pull-Ups;Deadlift,4
+1,1,1,1,1,1,Calf Raise;Pec Deck;Bicep Curl;Pull-Ups;Burpees,5
+1,1,0,1,1,0,Leg Curls;Bicep Curl;Cable Row;Running;Pec Deck,6
+0,1,1,1,1,1,Calf Raise;Bench Press;Bicep Curl;Pull-Ups;Deadlift,12
+0,0,1,0,1,0,Bench Press;Row;Bicep Curl;Calf Raise;Burpees,11
+1,1,1,0,1,0,Calf Raise;Chest Press;Cable Row;Tricep Extension;Running,5
+1,1,1,1,0,1,Squat;Chest Press;Bicep Curl;Clean and Press;Lat Pulldown,4
+0,0,0,1,1,0,Hammer Curl;Cable Row;Clean and Press;Calf Raise;Pec Deck,10
+1,0,1,1,1,1,Pec Deck;Tricep Extension;Row;Clean and Press;Squat,6
+1,0,1,1,0,0,Bench Press;Hammer Curl;Calf Raise;Burpees;Lat Pulldown,6
+0,1,0,1,1,1,Leg Press;Bicep Curl;Row;Burpees;Incline Press,10
+0,1,1,0,1,1,Lunges;Bench Press;Lat Pulldown;Deadlift;Tricep Extension,14
+0,1,1,1,0,1,Calf Raise;Push-Ups;Hammer Curl;Burpees;Row,8
+1,1,1,1,0,0,Calf Raise;Chest Press;Tricep Extension;Cable Row;Running,5
+0,1,1,0,1,0,Lunges;Push-Ups;Cable Row;Dumbbell Curl;Deadlift,9
+0,0,0,0,1,0,Lat Pulldown;Push-Ups;Leg Curls;Bicep Curl;Burpees,10
+1,0,1,0,0,1,Pec Deck;Deadlift;Row;Calf Raise;Tricep Extension,4
+1,0,0,1,1,1,Tricep Extension;Row;Running;Chest Press;Leg Curls,6
+0,1,1,0,0,0,Lunges;Incline Press;Row;Hammer Curl;Burpees,9
+0,1,1,1,1,0,Squat;Chest Press;Bicep Curl;Cable Row;Clean and Press,12
+0,1,0,0,0,0,Calf Raise;Dumbbell Curl;Bench Press;Running;Pull-Ups,14
+1,1,1,0,0,0,Calf Raise;Push-Ups;Row;Dumbbell Curl;Burpees,4
+1,0,1,1,0,0,Chest Press;Hammer Curl;Clean and Press;Calf Raise;Pull-Ups,4
+1,1,1,1,1,1,Squat;Bench Press;Hammer Curl;Pull-Ups;Deadlift,6
+0,0,0,0,1,0,Lat Pulldown;Running;Incline Press;Hammer Curl;Leg Curls,8
+1,1,1,0,1,1,Calf Raise;Pec Deck;Row;Deadlift;Tricep Extension,5
+1,0,1,1,0,1,Incline Press;Dumbbell Curl;Clean and Press;Lunges;Lat Pulldown,6
+1,1,0,1,1,0,Squat;Bicep Curl;Lat Pulldown;Incline Press;Running,5
+0,0,1,0,0,0,Push-Ups;Calf Raise;Row;Clean and Press;Tricep Extension,10
+0,1,1,1,1,1,Lunges;Incline Press;Dumbbell Curl;Row;Clean and Press,10
+1,0,1,1,1,1,Chest Press;Bicep Curl;Pull-Ups;Clean and Press;Calf Raise,5
+0,0,1,0,1,1,Bench Press;Cable Row;Clean and Press;Hammer Curl;Lunges,14
+1,1,0,0,0,1,Squat;Running;Push-Ups;Pull-Ups;Hammer Curl,5
+1,0,0,0,1,0,Row;Clean and Press;Chest Press;Dumbbell Curl;Leg Press,5
+1,1,1,1,1,1,Leg Curls;Push-Ups;Tricep Extension;Cable Row;Deadlift,6
+1,0,0,0,1,0,Row;Pec Deck;Hammer Curl;Squat;Deadlift,4
+1,1,0,1,0,0,Squat;Bicep Curl;Cable Row;Bench Press;Running,5
+1,1,1,0,0,1,Leg Press;Pec Deck;Burpees;Dumbbell Curl;Row,5
+0,0,1,0,1,1,Push-Ups;Lat Pulldown;Running;Leg Curls;Hammer Curl,10
+0,0,0,0,0,0,Row;Burpees;Dumbbell Curl;Squat;Chest Press,14
+0,1,1,1,0,0,Leg Press;Incline Press;Bicep Curl;Row;Deadlift,8
+0,0,1,0,1,0,Bench Press;Row;Hammer Curl;Leg Curls;Clean and Press,10
+0,0,1,0,0,1,Incline Press;Running;Bicep Curl;Pull-Ups;Squat,8
+0,1,0,0,1,1,Squat;Pull-Ups;Burpees;Tricep Extension;Incline Press,10
+0,0,1,1,1,1,Push-Ups;Dumbbell Curl;Row;Running;Leg Curls,8
+0,1,1,1,1,0,Leg Press;Pec Deck;Dumbbell Curl;Row;Burpees,14
+1,0,0,1,0,0,Tricep Extension;Squat;Cable Row;Chest Press;Clean and Press,5
+0,0,1,1,1,0,Chest Press;Tricep Extension;Lat Pulldown;Deadlift;Lunges,14
+0,1,1,1,0,0,Calf Raise;Incline Press;Bicep Curl;Running;Lat Pulldown,14
+0,1,0,1,1,1,Leg Curls;Dumbbell Curl;Pull-Ups;Deadlift;Incline Press,12
+1,1,1,0,0,1,Leg Press;Push-Ups;Burpees;Pull-Ups;Tricep Extension,6
+1,1,1,1,1,0,Leg Curls;Bench Press;Hammer Curl;Row;Running,4
+0,1,0,1,1,1,Lunges;Hammer Curl;Lat Pulldown;Deadlift;Pec Deck,13
+1,0,1,0,0,1,Push-Ups;Clean and Press;Bicep Curl;Cable Row;Leg Press,6
+1,1,1,0,1,1,Leg Press;Push-Ups;Row;Burpees;Dumbbell Curl,4
+1,0,0,1,0,0,Tricep Extension;Bench Press;Clean and Press;Row;Leg Press,4
+1,0,1,0,1,1,Pec Deck;Pull-Ups;Burpees;Hammer Curl;Calf Raise,4
+1,0,1,0,1,0,Pec Deck;Pull-Ups;Bicep Curl;Clean and Press;Lunges,6
+1,1,1,0,1,0,Leg Curls;Push-Ups;Cable Row;Dumbbell Curl;Deadlift,4
+1,0,0,0,0,0,Row;Incline Press;Clean and Press;Hammer Curl;Leg Press,6
+1,1,0,1,0,1,Squat;Bicep Curl;Burpees;Push-Ups;Lat Pulldown,4
+1,1,0,1,0,0,Lunges;Tricep Extension;Pull-Ups;Chest Press;Deadlift,5
+0,0,1,1,0,1,Chest Press;Dumbbell Curl;Clean and Press;Leg Curls;Cable Row,14
+1,1,1,0,1,1,Leg Curls;Incline Press;Row;Clean and Press;Hammer Curl,6
+1,1,1,0,1,1,Leg Curls;Pec Deck;Pull-Ups;Clean and Press;Dumbbell Curl,6
+1,0,1,0,1,1,Pec Deck;Pull-Ups;Running;Tricep Extension;Leg Press,5
+1,1,0,0,1,0,Squat;Lat Pulldown;Push-Ups;Hammer Curl;Running,5
+1,0,1,0,1,0,Push-Ups;Lat Pulldown;Lunges;Burpees;Tricep Extension,6
+0,1,1,0,1,1,Squat;Pec Deck;Row;Clean and Press;Bicep Curl,11
+0,0,1,1,0,0,Bench Press;Dumbbell Curl;Cable Row;Running;Calf Raise,9
+0,0,0,1,0,0,Bicep Curl;Chest Press;Row;Leg Curls;Clean and Press,9
+1,0,1,1,0,0,Bench Press;Dumbbell Curl;Lat Pulldown;Running;Squat,4
+1,1,0,1,1,0,Lunges;Dumbbell Curl;Cable Row;Pec Deck;Running,5
+1,0,1,1,0,1,Pec Deck;Hammer Curl;Burpees;Lat Pulldown;Leg Press,6
+0,1,0,0,1,0,Calf Raise;Row;Chest Press;Burpees;Hammer Curl,14
+0,0,1,1,0,1,Push-Ups;Hammer Curl;Clean and Press;Squat;Lat Pulldown,12
+0,0,1,0,1,1,Incline Press;Row;Deadlift;Hammer Curl;Squat,12
+1,1,1,0,1,0,Leg Curls;Bench Press;Cable Row;Burpees;Tricep Extension,5
+0,0,0,0,1,1,Pull-Ups;Clean and Press;Calf Raise;Tricep Extension;Bench Press,12
+1,1,1,0,1,1,Leg Press;Bench Press;Row;Deadlift;Tricep Extension,6
+0,0,0,1,0,1,Tricep Extension;Clean and Press;Bench Press;Pull-Ups;Lunges,14
